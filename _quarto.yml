@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "CCSPP APR"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+  sidebar:
+    
+    - title: "Demos"
+      contents: 
+       - index.qmd
+       - rtac-lea.qmd
+       - site.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

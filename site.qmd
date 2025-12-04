@@ -1,0 +1,174 @@
+---
+title: "Site Demo"
+---
+
+# Annual Progress Report (APR)
+
+## Introduction
+
+This document contains...
+
+**Contact Information**
+
+|            |                                 |
+|------------|---------------------------------|
+| **School** | H Elementary - 36 67XXX XXXXXXX |
+| **LEA**    | District Name                   |
+| **Cohort** | Cohort 1                        |
+| **Region** | CCSPP Region - RTAC             |
+|            |                                 |
+| **Name**   | K.A.                            |
+| **Role**   | Principal                       |
+| **Email**  | ka\@lea.edu                     |
+| **Phone**  | 909 XXX XXXX                    |
+
+## Section 1: Capacity Building Strategies
+
+### Changes Over Time
+
+![](images/capacity-building-strategies/cbs-change-over-time-site.png)
+
+### Current Year Results
+
+See tables below for current response about the site's progress in capacity building strategies.
+
+<details>
+
+#### Shared Commitment Understanding and Priorities
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Growth Phase** | Engaging |
+| **Artifacts** | Outreach materials,Surveys,Councils or Committee meeting minutes (School Site Council, English Learner Advisory Committee, Steering Committee, etc.) |
+| **Other artifacts** |   |
+
+#### Centering Community Based Learning
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Growth Phase** | Engaging |
+| **Artifacts** | School climate surveys,Unit plans, lesson plans,Performance assessments that highlight classroom-community connections,Student engagement or attendance rates,Family and community engagement or attendance,Professional Development or training sessions |
+| **Other artifacts** |  |
+
+#### Collaborative Leadership
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Growth Phase** | Engaging |
+| **Artifacts** | Committee by-laws,Team mapping,Formal agreements,Guiding documents, vision statements, decision-making protocols ,Team workplans and agendas,Planning documents,Survey data,Councils or Committee meeting minutes (School Site Council, English Learner Advisory Committee, Steering Committee, etc.),School staff direct input (Interview-focus groups),Students and-or families direct input (Interview-focus groups),Other (Write-In): |
+| **Other artifacts** | Team roles and responsibilities, RP conflict resolution process, Meeting agendas and minutes |
+
+#### Sustaining Staff and Resources
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Growth Phase** | Transforming |
+| **Artifacts** | Community school-aligned job descriptions,Roles and responsibilities document that includes a process for ongoing revision,Processes for budget transparency,Staff visioning documents (e.g., graphic representations, protocols for design),Data examining staff-teacher retention-vacancy rates,Councils or Committee meeting minutes (School Site Council, English Learner Advisory Council, Steering, etc.),Professional development or training sessions,Teachers and staff surveys (e.g., school climate surveys),Other (Write-In): |
+| **Other artifacts** | Team roles, team mapping |
+
+#### Strategic Community Partnerships
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Growth Phase** | Transforming |
+| **Artifacts** | Contract agreements-MOUs-Service Delivery Applications ,Service utilization rates,School climate surveys,Feedback from existing service providers and partners,Partnership evaluations,Partners participation in school events,Increased reports of student and family wellbeing,Other (Write-In): |
+| **Other artifacts** | HWS community partnership survey |
+
+#### Narrative of accomplishments
+
+|  |
+|------------------------------------------------------------------------|
+| During the 2024-2025 school year, our school accomplished increased Collaborative Leadership as evidenced in our Community Schools work with … |
+
+</details>
+
+## Section 2: Engaging Educational Partners
+
+See the table below for a breakdown of the partner types this site engages with and the approaches used.
+
+<details>
+
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| **Group** | **Engaged…** | **Response** |
+| Administrators | Numbers | 2 |
+|  | Processes | Surveys,Focus groups,School council -steering committee meetings,Other meetings and forums,School events |
+|  | Other |   |
+|  | Total in School | 2 |
+| Certificated staff | Numbers | 38 |
+|  | Processes | Surveys,Focus groups,School council -steering committee meetings,Other meetings and forums,School events |
+|  | Other |   |
+|  | Total in School | 38 |
+| Classified staff | Numbers | 32 |
+|  | Processes | Surveys,Focus groups,School council -steering committee meetings,Other meetings and forums,School events |
+|  | Other |   |
+|  | Total in School | 32 |
+| Students | Numbers | 525 |
+|  | Processes | Surveys,Focus groups,Other meetings and forums,School events,Other |
+|  | Other | Student leadership |
+|  | Total in School | Auto-populated |
+| Family Members | Numbers | 514 |
+|  | Processes | Surveys,Focus groups,School council -steering committee meetings,Other meetings and forums,School events,Other |
+|  | Other | PTA |
+|  | Total in School | Auto-populated |
+| Community Members | Numbers | 24 |
+|  | Processes | Surveys,Focus groups,Other meetings and forums,School events |
+|  | Other |   |
+|  | Total in School | Auto-populated |
+| Community partners | Numbers |   |
+|  | Processes |   |
+|  | Other |   |
+|  | Total in School |   |
+
+**Narrative of accomplishments**
+
+|      |
+|------|
+| .... |
+
+</details>
+
+## Section 3: Engaging Marginalized Students
+
+See the table below for a breakdown of both the extent and the approaches this site uses to engage marginalized students.
+
+<details>
+
+|  |  |  |
+|----|----|----|
+| **Group** | **Engaged** | **Response** |
+| English Learners | Number | 154 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups |
+|  | Total in School | Auto-populated |
+| Students with disabilities | Number | 66 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups. |
+|  | Total in School | Auto-populated |
+| Socioeconomically disadvantaged students | Number | 459 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups. |
+|  | Total in School | Auto-populated |
+| Racially marginalized populations | Number | 149 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups. |
+|  | Total in School | 476 |
+| Homeless youth | Number | 61 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups. |
+|  | Total in School | Auto-populated |
+| Foster youth | Number | 6 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups. |
+|  | Total in School | Auto-populated |
+| Chronically absent students | Number | 80 |
+|  | How are they engaged? | We engaged this student and family group by surveys, focus groups, school site council meetings, school events and parent advisory groups. |
+|  | Total in School | Auto-populated |
+| Other 1 | Definition |   |
+|  | Number |   |
+|  | How are they engaged? |   |
+|  | Total in School |   |
+| Other 2 | Definition |   |
+|  | Number |   |
+|  | How are they engaged? |   |
+|  | Total in School |   |
+| Other 3 | Definition |   |
+|  | Number |   |
+|  | How are they engaged? |   |
+|  | Total in School |   |
+
+</details>
