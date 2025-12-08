@@ -12,7 +12,7 @@ These visualizations reflect the data from the CCSPP APR for school sites for th
 
 The APR is aligned with the California Community Schools Framework and also aligns with resources provided by the State Transformational Assistance Center (S-TAC) including the Community Schools Implementation Plan Template, the Community Schools Needs and Assets Assessment (NAA) Guide, and the Capacity Building Strategies: A Developmental Rubric, that are available for optional use by grantees.
 
-Select specific report on the left.
+Select specific report by **clicking on the section above**.
 
 |                                                          |
 |:--------------------------------------------------------:|

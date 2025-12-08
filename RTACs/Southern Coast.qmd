@@ -1,0 +1,666 @@
+---
+title: "Southern Coast"
+execute:
+  echo: false
+  message: false
+  warning: false
+editor: visual
+---
+
+# Purpose
+
+Provides descriptive tables of the sample overall, broken down by grade.
+
+```{r, results='hide'}
+library(tidyverse)
+library(kableExtra)
+library(knitr)
+library(readxl)
+
+## ---------------------------
+## helper functions & strings
+## ---------------------------
+
+
+
+## ---------------------------
+## load data
+## ---------------------------
+
+
+
+## ---------------------------
+## Add Helpful strings
+## ---------------------------
+
+```
+
+
+# Capacity Building Strategies
+
+## Number of schools in each phase of growth and development
+
+::: panel-tabset
+### All
+
+![](../images/capacity-building-strategies/cbs-change-over-time-all.png)
+
+### Cohort 1
+
+![](../images/capacity-building-strategies/cbs-change-over-time-c1.png)
+
+### Cohort 2
+
+![](../images/capacity-building-strategies/cbs-change-over-time-c2.png)
+
+### Cohort 3
+
+![](../images/capacity-building-strategies/cbs-change-over-time-c1.png)
+:::
+
+## Please indicate your current phase of growth and development
+
+:::::: panel-tabset
+## 2022-2023
+
+::: panel-tabset
+### All
+
+![](../images/capacity-building-strategies/cbs-chart-growth-all.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 1
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c1.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 2
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c2.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 3
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c3.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+:::
+
+## 2023-2024
+
+::: panel-tabset
+### All
+
+![](../images/capacity-building-strategies/cbs-chart-growth-all.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 1
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c1.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 2
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c2.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 3
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c3.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+:::
+
+## 2024-2025
+
+::: panel-tabset
+### All
+
+![](../images/capacity-building-strategies/cbs-chart-growth-all.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 1
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c1.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 2
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c2.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+
+### Cohort 3
+
+![](../images/capacity-building-strategies/cbs-chart-growth-c3.png)
+
+**Please identify the artifacts or evidence you may have referenced to gauge your current phase of growth and development.**
+
+<details>
+
+| Capacity Building Strategy | Artifacts | Percentage |
+|------------------------|-----------------------------|-------------------|
+| Shared Commitment, Understanding and Priorities | Surveys | 85% |
+|  | Outreach materials | 69% |
+|  | Interview/focus groups | 63% |
+|  | Needs and Assets Assessment tools/participation rates | 61% |
+|  | Protocols used to create vision/graphic representation of vision | 25% |
+|  | Other | 23% |
+| Collaborative Leadership | Team workplans and agendas | 76% |
+|  | Planning documents | 60% |
+|  | Guiding documents and vision statements | 58% |
+|  | Team mapping | 47% |
+|  | Committee bylaws | 38% |
+|  | Formal agreements | 29% |
+|  | Other | 17% |
+| Strategic Community Partnerships | Contract agreements/MOUs/Service Delivery Applications | 82% |
+|  | School climate surveys | 80% |
+|  | Feedback from existing service providers and partners | 55% |
+|  | Increased reports of student and family wellbeing | 40% |
+|  | Service utilization rates | 32% |
+|  | Other | 17% |
+| Centering Community-Based Learning | School Climate surveys | 83% |
+|  | Family and community engagement | 79% |
+|  | Professional development | 67% |
+|  | Student engagement rates | 50% |
+|  | Unit plans, lesson plans | 40% |
+|  | A site-specific framework for community-based teaching that elevate community assets | 21% |
+|  | Performance assessments that highlight classroom-community connections | 20% |
+|  | Other | 13% |
+| Sustaining Staff Resources | Community school-aligned job descriptions | 73% |
+|  | Processes for budget transparency | 62% |
+|  | Roles and responsibilities document that includes a process for ongoing revision | 56% |
+|  | Data examining staff/teacher retention/vacancy rates | 44% |
+|  | Staff visioning document (e.g., graphic representation, protocols for design) | 34% |
+|  | Other | 14% |
+
+</details>
+:::
+::::::
+
+# Engaging Educational Partners
+
+::::: panel-tabset
+## 2022-2023
+
+::: panel-tabset
+### All
+
+![](../images/engaging-educational-partners/visual-all.png)
+
+### Cohort 1
+
+![](../images/engaging-educational-partners/visual-c1.png)
+
+### Cohort 2
+
+![](../images/engaging-educational-partners/visual-c2.png)
+:::
+
+## 2023-2024
+
+::: panel-tabset
+### All
+
+![](../images/engaging-educational-partners/visual-all.png)
+
+### Cohort 1
+
+![](../images/engaging-educational-partners/visual-c1.png)
+
+### Cohort 2
+
+![](../images/engaging-educational-partners/visual-c2.png)
+:::
+:::::
+
+
+

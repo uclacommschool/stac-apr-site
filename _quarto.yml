@@ -8,16 +8,21 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: all-grantees.qmd
+        text: "All Grantees"
+      - href: RTACs/index.qmd
+        text: "RTACs"
 
   sidebar:
-    
-    - title: "Demos"
+    - title: "All Grantees"
       contents: 
-       - index.qmd
-       - rtac-lea.qmd
-       - site.qmd
+       - all-grantees.qmd
 
-
+    - title: "RTACs"
+      contents: 
+       - auto: "RTACs"
+    
+       
 format:
   html:
     theme:

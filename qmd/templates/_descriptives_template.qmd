@@ -1,0 +1,94 @@
+---
+title: "Overall Descriptives"
+execute:
+  echo: false
+  message: false
+  warning: false
+editor: visual
+---
+
+# Purpose
+
+Provides descriptive tables of the sample overall, broken down by grade.
+
+```{r, results='hide'}
+library(tidyverse)
+library(kableExtra)
+library(knitr)
+library(aws.s3)
+library(readxl)
+
+## ---------------------------
+## helper functions & strings
+## ---------------------------
+
+rnd<-function(x,n){
+  posneg=sign(x)
+  z = abs(x)*10^n
+  z = z + 0.5 + sqrt(.Machine$double.eps)
+  z = trunc(z)
+  z = z/10^n
+  z*posneg
+}
+
+
+## ---------------------------
+## load data
+## ---------------------------
+
+session_path <- file.path("prod-data-lake-ican-stg-recap/research/efficacy",
+                          "Louisiana_PI_Study")
+
+#Get Sheet Names
+tmp_file <- tempfile(fileext = ".xlsx")
+save_object(object = "pre_match_desc_clean_tbls.xlsx",
+            bucket = file.path(session_path, "tables"), file = tmp_file)
+
+# --- Get sheet names ---
+sheet_names <- excel_sheets(tmp_file)
+
+# Read each sheet into a list of data frames
+df_list <- lapply(c(1:length(sheet_names)), function(sheet) {
+  s3read_using(
+  FUN = read_excel,
+  bucket = file.path(session_path, "tables"),
+  object = "pre_match_desc_clean_tbls.xlsx",
+  sheet = sheet)
+})
+
+#update names of list
+names(df_list)<-sheet_names
+
+#add child_file directory
+dir_path<-file.path("..","..", "qmd")
+data_dir_path<-file.path("..","..","data")
+
+## ---------------------------
+## Add Helpful strings
+## ---------------------------
+
+```
+
+# Before Match Descriptives
+
+```{r, echo=FALSE, results='asis'}
+
+gxs<-lapply(1:1, function(x){
+
+  pi_ela<-df_list[[paste0("pi.",ver_num,".ela")]]
+  pi_f_ela<-df_list[[paste0("pi_f.",ver_num,".ela")]]
+  
+  pi_math<-df_list[[paste0("pi.",ver_num,".math")]]
+  pi_f_math<-df_list[[paste0("pi_f.",ver_num,".math")]]
+  
+
+  knit_child(
+    file.path(dir_path, "child_files",
+              '_desc_subject_child.Rmd'), envir = environment(),
+    quiet = TRUE
+  )
+
+})
+
+cat(unlist(gxs), sep = '\n')
+```
