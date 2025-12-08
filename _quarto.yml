@@ -8,15 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: all-grantees.qmd
-        text: "All Grantees"
+      - href: statewide.qmd
+        text: "Statewide"
       - href: RTACs/index.qmd
         text: "RTACs"
 
   sidebar:
-    - title: "All Grantees"
+    - title: "Statewide"
       contents: 
-       - all-grantees.qmd
+       - statewide.qmd
 
     - title: "RTACs"
       contents: 
