@@ -1,0 +1,27 @@
+---
+title: "Engaging Educational Partners"
+---
+
+# Overview of Engaging Educational Partners in Year 3
+
+Analysis of Year 3 APR data indicates that schools were most successful in engaging administrators (89.7% at 75-100% engagement rate), certified staff (58.2% at 75-100% engagement rate), and classified staff (44.2% at 75-100% engagement rate). More than 60% of respondents also reported engaging 75-100% of community partners. Despite 6% of grantees indicate a 0% engagement rate of students, longitudinal trends of Y1 through Y3 showed that students engaged at 0% have decreased in Year 3 from previous two years (see below).
+
+![](images/engaging-educational-partners/y3-apr-overall.png)
+
+For **Internal Use** only, some of these groups are **very high in NA’s**, which means many respondents did not fill it out. This is something our recent revisions (e.g., removing Community Members as a reporting category) can help address in the upcoming year.
+
+| Stakeholder Group  | 0%  | 1-24% | 25-49% | 50-74% | 75-100% | *NA*  |
+|--------------------|-----|-------|--------|--------|---------|-------|
+| Administrators     | 2   | 6     | 53     | 130    | 1664    | *64*  |
+| Certified Staff    | 22  | 325   | 189    | 221    | 1052    | *110* |
+| Classified Staff   | 39  | 457   | 241    | 270    | 797     | *115* |
+| Community Members  | 386 | 560   | 17     | 4      | 9       | *943* |
+| Community Partners | 52  | 95    | 157    | 177    | 827     | *661* |
+| Family Members     | 45  | 761   | 333    | 210    | 364     | *206* |
+| Students           | 104 | 431   | 237    | 243    | 719     | *185* |
+
+## Historically Marginalized Groups {style="text-align: center;"}
+
+In Year 3, more than half of grantees reported engaging 75-100% of foster youth and racially marginalized students. However, foster youth and students experiencing homelessness are two groups with the highest percentage of grantees reporting 0% engagement.
+
+![](images/engaging-educational-partners/y3-apr-marginalized-groups.png)

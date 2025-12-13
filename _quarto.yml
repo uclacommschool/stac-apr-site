@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Engaging Educational Partners.qmd
+        text: "Engaging Partners"      
       - href: Goals and Actions.qmd
         text: "Goals & Actions"    
       - href: statewide.qmd
