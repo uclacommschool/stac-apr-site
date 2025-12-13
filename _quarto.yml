@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: Goals and Actions.qmd
+        text: "Goals & Actions"    
       - href: statewide.qmd
         text: "Statewide"
       - href: RTACs/index.qmd
@@ -29,7 +31,7 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
