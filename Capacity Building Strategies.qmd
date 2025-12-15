@@ -1,0 +1,35 @@
+---
+title: "Capacity Building Strategies"
+---
+
+# Overview of *Capacity Building Strategies* in Year 3
+
+Overall, Year 3 APR data indicates that Strategic Community Partnership has 14%, the highest percentage of grantees with a self rating of being in the “Transforming” phase, compared to other Capacity Building Strategies. For three Capacity Building Strategies- Sustaining Staff and Resources, Strategic Community Partnerships, and Collaborative Leadership, there are more schools identifying as Engaging than Visioning. For Shared Commitment, Understanding, and Priorities, and Centering Community-Based Learning, there are more grantees in the Visioning phase than the Engaging phase.
+
+![](images/capacity-building-strategies/cbs-graph-overall.png)
+
+# Capacity Building Strategies: Year 1-3 Trends
+
+A closer look at Cohort 1 schools (Cohort 1 in Year 1 = 450 Schools; Cohort 1 in Year 2 = 431 Schools; Cohort 1 in Year 3 = 435 Schools) across the three years of implementation reveal several trends. There is an overall trend of grantees moving from Visioning to Engaging, and from Engaging to Transforming over the three years. Cohort 1 grantees have achieved great successes in several capacity building strategies. Nearly one in three Cohort 1 grantees (32.4%) self-reported as being in the “Transforming” phase in Strategic Community Leadership. The percentage of grantees in “Visioning” have decreased significantly. For instance, while 62% of grantees considered themselves still in “Visioning phase in Year 1, this percentage lowered to only 27.4% in Year 3 for Centering Community-Based Learning.
+
+::: panel-tabset
+### Shared Commitment, Understanding and Priorities
+
+![](images/capacity-building-strategies/cbs-shared-commitment.png)
+
+### Centering Community-Based Learning
+
+![](images/capacity-building-strategies/cbs-centering-community-learning.png)
+
+### Collaborative Leadership
+
+![](images/capacity-building-strategies/cbs-collaborative-leadership.png)
+
+### Strategic Community Partnerships
+
+![](images/capacity-building-strategies/cbs-strategic-community-partnerships.png)
+
+### Sustaining Staff and Resources
+
+![](images/capacity-building-strategies/cbs-sustaining-staff-resources.png)
+:::

@@ -4,11 +4,11 @@ title: "Engaging Educational Partners"
 
 # Overview of Engaging Educational Partners in Year 3
 
-Analysis of Year 3 APR data indicates that schools were most successful in engaging administrators (89.7% at 75-100% engagement rate), certified staff (58.2% at 75-100% engagement rate), and classified staff (44.2% at 75-100% engagement rate). More than 60% of respondents also reported engaging 75-100% of community partners. Despite 6% of grantees indicate a 0% engagement rate of students, longitudinal trends of Y1 through Y3 showed that students engaged at 0% have decreased in Year 3 from previous two years (see below).
+Analysis of Year 3 APR data indicates that schools were most successful in engaging administrators (89.7% at 75-100% engagement rate), certified staff (58.2% at 75-100% engagement rate), and classified staff (44.2% at 75-100% engagement rate). More than 60% of respondents also reported engaging 75-100% of community partners. Despite 6% of grantees indicate a 0% engagement rate of students, longitudinal trends of Y1 through Y3 showed that students engaged at 0% has dropped to the lowest in Year 3 from previous two years (see below).
 
 ![](images/engaging-educational-partners/y3-apr-overall.png)
 
-For **Internal Use** only, some of these groups are **very high in NA’s**, which means many respondents did not fill it out. This is something our recent revisions (e.g., removing Community Members as a reporting category) can help address in the upcoming year.
+For Internal Use only, some of these groups are **very high in NA’s**, which means many respondents did not fill it out. This is something our recent revisions (e.g., removed Community Members as a reporting category; added the definition of Community Partners) can help address in the upcoming year.
 
 | Stakeholder Group  | 0%  | 1-24% | 25-49% | 50-74% | 75-100% | *NA*  |
 |--------------------|-----|-------|--------|--------|---------|-------|
@@ -20,8 +20,26 @@ For **Internal Use** only, some of these groups are **very high in NA’s**, whi
 | Family Members     | 45  | 761   | 333    | 210    | 364     | *206* |
 | Students           | 104 | 431   | 237    | 243    | 719     | *185* |
 
-## Historically Marginalized Groups {style="text-align: center;"}
+# Engaging Educational Partners: Y1-Y3 Trends
 
-In Year 3, more than half of grantees reported engaging 75-100% of foster youth and racially marginalized students. However, foster youth and students experiencing homelessness are two groups with the highest percentage of grantees reporting 0% engagement.
+In Cohort 1 schools, we see steady increases in the percentage of grantees that reported engaging each group of stakeholders at 75-100% each year. Year 3 APR shows particularly enhanced engagement of community partners, which increased by 40 percentage points.
+
+![](images/engaging-educational-partners/y1-y3-graph1.png)
+
+The following two graphs break the results down by groups of stakeholders, and showcase longitudinal trends of engaging students and community partners. Compared to previous years, the percentage of Cohort 1 grantees that reported engaging students and community partners at 0% dropped to the lowest in Year 3. Compared to Year 2, fewer Cohort 1 grantees in Year 3 reported engaging students at 25-74%. For student engagement, grantees moved from these middle categories to a lower (1-24%) or a higher engagement level (75-100%). For community partners engagement, the majority of Cohort 1 grantees moved up to the highest (75%) engagement level.
+
+::: panel-tabset
+### Students
+
+![](images/engaging-educational-partners/y1-y3-students.png)
+
+### Community Partners
+
+![](images/engaging-educational-partners/y1-y3-community.png)
+:::
+
+# Historically Marginalized Groups
+
+In Year 3, more than half of grantees reported engaging 75-100% of foster youth and racially marginalized students. However, foster youth and students experiencing homelessness are two groups where the highest percentage of grantees reported 0% engagement.
 
 ![](images/engaging-educational-partners/y3-apr-marginalized-groups.png)
