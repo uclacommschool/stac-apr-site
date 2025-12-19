@@ -14,10 +14,9 @@ website:
         text: "Engaging Partners"      
       - href: Goals and Actions.qmd
         text: "Goals & Actions"    
-      - href: statewide.qmd
-        text: "Statewide"
-      - href: RTACs/index.qmd
-        text: "RTACs"
+      - href: WCFSI.qmd
+        text: "Whole-Child Family Supports"
+
 
   sidebar:
     - title: "Statewide"
