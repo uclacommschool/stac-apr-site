@@ -1,10 +1,10 @@
 ---
-title: "Capacity Building Strategies"
+title: "Capacity Building Strategies" 
 ---
 
 # Overview of *Capacity Building Strategies* in Year 3
 
-Overall, Year 3 APR data indicates that Strategic Community Partnership has 14%, the highest percentage of grantees with a self rating of being in the “Transforming” phase, compared to other Capacity Building Strategies. For three Capacity Building Strategies- Sustaining Staff and Resources, Strategic Community Partnerships, and Collaborative Leadership, there are more schools identifying as Engaging than Visioning. For Shared Commitment, Understanding, and Priorities, and Centering Community-Based Learning, there are more grantees in the Visioning phase than the Engaging phase.
+Overall, Year 3 APR data indicates that Strategic Community Partnership has 14%, the highest percentage of grantees with a self rating of being in the “Transforming” phase, compared to other Capacity Building Strategies. For three Capacity Building Strategies- Sustaining Staff and Resources, Strategic Community Partnerships, and Collaborative Leadership, there are more schools identifying as Engaging than Visioning. For Shared Commitment, Understanding, and Priorities, and Centering Community-Based Learning, there are more grantees in the Visioning phase than the Engaging phase. Hello!
 
 ![](images/capacity-building-strategies/cbs-graph-overall.png)
 
