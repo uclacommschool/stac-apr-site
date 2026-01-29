@@ -1,0 +1,25 @@
+color:
+  primary: "#2774AE"      # UCLA Blue
+  secondary: "#FFD100"    # UCLA Gold
+  info: "#8BB8E8"
+  success: "#5CB85C"
+  warning: "#F0AD4E"
+  danger: "#D9534F"
+
+  background: "#FFFFFF"
+  foreground: "#1A1A1A"
+
+  link: "#2774AE"
+  link-hover: "#1E4F8A"
+    
+       
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+
+editor: visual
+
