@@ -13,7 +13,7 @@ The 27 supports in the inventory are divided into six categories, according to t
 
 Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see that *the most frequent support present are the Mental health Screening Services (87% of grantees)* and also the presence of *Multi-Tiered System of Support (84% of grantees)*.
 
-![](images/IA.png)){fig-align="center"}
+![](images/IA.png){fig-align="center"}
 
 ### B. CCSPP Implementation of the Supports in Year 3
 
