@@ -15,3 +15,67 @@ h1, h2, h3, h4, h5, h6,
 .toc {
   font-family: "Lato", system-ui, -apple-system, sans-serif;
 }
+
+
+/*classic UCLA blue bar*/
+.navbar {
+  background-color: #2774AE !important;
+}
+
+.navbar a,
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar a:hover {
+  color: #FFD100 !important;
+}
+
+/*side UCLA styling*/
+
+.sidebar {
+  background-color: #F5F7FA;
+}
+
+.sidebar a.active {
+  color: #2774AE;
+  font-weight: 600;
+}
+
+
+/* Search icon in navbar */
+.navbar .aa-SearchIcon,
+.navbar .aa-SubmitIcon {
+  color: white !important;
+  fill: white !important;
+}
+
+/* Search input box */
+.navbar .aa-Input {
+  background-color: white;
+  color: #2774AE;
+  border: 1px solid white;
+}
+
+/* Placeholder text */
+.navbar .aa-Input::placeholder {
+  color: #2774AE;
+  opacity: 0.7;
+}
+
+/* Search button */
+.navbar .aa-SubmitButton {
+  background-color: #2774AE;
+  border: 1px solid white;
+}
+
+/* Hover / focus */
+.navbar .aa-SubmitButton:hover,
+.navbar .aa-SubmitButton:focus-within {
+  background-color: #1E4F8A;
+}
+
+/* Search modal results header */
+.aa-DetachedSearchButton {
+  border-color: white;
+}
