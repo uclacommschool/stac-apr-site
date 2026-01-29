@@ -1,0 +1,179 @@
+---
+title: "Whole-Child and Family Supports Inventory"
+---
+
+# Overview of the *Whole-Child and Family Supports Inventory* in Year 3
+
+The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support. Each category is presented in a different section below.
+
+## I. Integrated Student Supports and Services
+
+::: panel-tabset
+### A. Presence of the Supports in Year 3
+
+Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see that *the most frequent support present are the Mental health Screening Services (87% of grantees)* and also the presence of *Multi-Tiered System of Support (84% of grantees)*.
+
+![](images/IA.png)){fig-align="center"}
+
+### B. CCSPP Implementation of the Supports in Year 3
+
+Grantees were asked when did they start implementing each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see that most of the supports were being previously implemented, with over 80% of grantees mentioning that they previously implemented each of the supports. One exception is the *Coordination of Services Team (e.g., COST team), because 25% of grantees mention Starting the implementation exclusively because of CCSPP*.
+
+![](images/IB.png){fig-align="center"}
+
+### C. Served individuals by support in Year 3
+
+Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see that *...*.
+
+![](images/IC.png){fig-align="center"}
+
+### D. Supports funding in Year 3
+
+Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see some higher frequencies of traditional funding sources, such as *LCFF being used to fund the Multi-Tiered System of Support (25% of grantees)* and also that *Title I funds help support Academic Supports (14% of grantees) and the Multi-Tieres System of Support*. Finally, the *Expanded Learning Opportunities Program (ELOP) is also used to support Academic Support (15% of Grantees)*.
+
+![](images/ID.png){fig-align="center"}
+
+:::
+
+## II. Community, Student, and Family Engagement
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community, Student, and Family Engagement, it is possible to see that *90% of grantees mention implementing Multiple Modes of Family Communication and Involvement*. In addition, it's relevant to note that *67% of grantees mention implementing Home Visits*.
+
+![](images/IIA.png){fig-align="center"}
+
+### B. CCSPP Implementation of the Supports in Year 3
+
+Grantees were asked when did they start implementing each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community, Student, and Family Engagement, it is possible to see that *32% of grantees mention starting the implementation of Adult Education programs exclusively as a result of CCSPP*.
+
+![](images/IIB.png){fig-align="center"}
+
+### C. Served individuals by support in Year 3
+
+Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community, Student, and Family Engagement, it is possible to see that *NA*
+
+![](images/IIC.png){fig-align="center"}
+
+### D. Supports funding in Year 3
+
+Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community, Student, and Family Engagement, it is possible to see that *LCFF is used frequently to fund the Multiple Modes of Family Communication and Involvement and also Home Visits*.
+
+![](images/IID.png){fig-align="center"}
+:::
+
+## III. Collaborative Leadership Practices
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around collaborative leadership practices, it is possible to see that *89% of grantees have implemented a shared decision-making body that center the voices of all community members, including students, families, and other stakeholders*.
+
+![](images/IIIA.png){fig-align="center"}
+
+### B. CCSPP Implementation of the Supports in Year 3
+
+Grantees were asked when did they start implementing each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around collaborative leadership practices, it is possible to see that *31% of grantees started implementing Parent Leadership Development Opportunities exlusively because the CCSPP funding*. In addition, *28% of grantees mention starting the Shared decision-making bodies exclusively as a result of CCSPP funding*.
+
+![](images/IIIB.png){fig-align="center"}
+
+### C. Served individuals by support in Year 3
+
+Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around collaborative leadership practices, it is possible to see that *...*.
+
+![](images/IIIC.png){fig-align="center"}
+
+### D. Supports funding in Year 3
+
+Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around collaborative leadership practices, it is possible to see that *Teacher Leadership Development and Opportunities is being funded by a diversity of sources --such as LCFF, General Funds, Title I, among others*. In addition, the newly implemented *Shared Decision-Making Bodies are being funded by many sources, including the LCFF, General Funds, Title I funds, and District Funds*.
+
+![](images/IIID.png){fig-align="center"}
+:::
+
+## IV. Expanded and Enriched Learning Time
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Expanded and Enriched Learning Time, it is possible to see that *a 78% of grantees implement After School programs*.
+
+![](images/IVA.png){fig-align="center"}
+
+### B. CCSPP Implementation of the Supports in Year 3
+
+Grantees were asked when did they start implementing each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Expanded and Enriched Learning Time, it is possible to see that *15% of grantees mention starting Before School programs exclusively as a result of CCSPP*.
+
+![](images/IVB.png){fig-align="center"}
+
+### C. Served individuals by support in Year 3
+
+Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Expanded and Enriched Learning Time, it is possible to see that *NA*.
+
+![](images/IVC.png){fig-align="center"}
+
+### D. Supports funding in Year 3
+
+Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Expanded and Enriched Learning Time, it is possible to see that *Expanded Learning Opportunities Program (ELOP) is the main funding source for After School programs and Summer Programs*.
+
+![](images/IVD.png){fig-align="center"}
+:::
+
+## V. Community-based Curriculum and Pedagogy
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community-based Curriculum and Pedagogy Practices, it is possible to see that *a 56% of grantees mention implementing a Culturally-Sustaining and Responsive Curriculum and Pedagogy*.
+
+![](images/VA.png){fig-align="center"}
+
+### B. CCSPP Implementation of the Supports in Year 3
+
+Grantees were asked when did they start implementing each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community-based Curriculum and Pedagogy Practices, it is possible to see that *27% of grantees mention that they started implementing Community-Based Curriculum, Pedagogy and Projects exclusively as a result of the CCSPP funding*.
+
+![](images/VB.png){fig-align="center"}
+
+### C. Served individuals by support in Year 3
+
+Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community-based Curriculum and Pedagogy Practices, it is possible to see that *...*.
+
+![](images/VC.png){fig-align="center"}
+
+More specifically ...
+
+### D. Supports funding in Year 3
+
+Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community-based Curriculum and Pedagogy Practices, it is possible to see that *there grantees are using a diversity of funding sources that can help support community-based learning supports*.
+
+![](images/VD.png){fig-align="center"}
+
+:::
+
+## VI. Positive and Restorative School Climate
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+Grantees were asked for each support to mention those that were part of their implementation of Community Schools. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Positive and Restorative School Climate, it is possible to see that *89% of grantees mention implementing Programs and Practices that Teach Social-Emotional Skills*.
+
+![](images/VIA.png){fig-align="center"}
+
+### B. CCSPP Implementation of the Supports in Year 3
+
+Grantees were asked when did they start implementing each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Positive and Restorative School Climate, it is possible to see that *16% of grantees mention that the Programs and Pratices that Teach Social-Emotional Skills that they implemented started exclusively as a result of CCSPP funding*.
+
+![](images/VIB.png){fig-align="center"}
+
+### C. Served individuals by support in Year 3
+
+Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Positive and Restorative School Climate, it is possible to see that *NA*.
+
+![](images/VIC.png){fig-align="center"}
+
+### D. Supports funding in Year 3
+
+Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Positive and Restorative School Climate, it is possible to see that *grantees are using the LCFF as the main source to fund supports related to Positive and Restorative School Climate*.
+
+![](images/VID.png){fig-align="center"}
+:::
