@@ -32,7 +32,6 @@ Grantees were asked the number of individuals that were served by each support. 
 Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see some higher frequencies of traditional funding sources, such as *LCFF being used to fund the Multi-Tiered System of Support (25% of grantees)* and also that *Title I funds help support Academic Supports (14% of grantees) and the Multi-Tieres System of Support*. Finally, the *Expanded Learning Opportunities Program (ELOP) is also used to support Academic Support (15% of Grantees)*.
 
 ![](images/ID.png){fig-align="center"}
-
 :::
 
 ## II. Community, Student, and Family Engagement
@@ -147,7 +146,6 @@ More specifically ...
 Grantees were asked the indicate the funding sources that helped them leverage each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community-based Curriculum and Pedagogy Practices, it is possible to see that *there grantees are using a diversity of funding sources that can help support community-based learning supports*.
 
 ![](images/VD.png){fig-align="center"}
-
 :::
 
 ## VI. Positive and Restorative School Climate
