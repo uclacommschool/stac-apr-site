@@ -1,0 +1,68 @@
+---
+title: "Whole-Child and Family Supports Inventory"
+---
+
+# Overview 
+
+The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support.
+
+## I. Integrated Student Supports and Services
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+In Year 3, for those support that reflect the presence of integrated student supports and services, it is possible to see that the most frequent support present is the Mental Health Screening services and the Multi-tired system of support.
+
+![](images/whole-child-family-supports/wcfsi-overview-1.png)
+
+### B. Growth on time
+:::
+
+## II. Community, Student, and Family Engagement
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+![](images/whole-child-family-supports/wcfsi-overview-2.png)
+
+### B. Growth on time
+:::
+
+## III. Collaborative Leadership Practices
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+![](images/whole-child-family-supports/wcfsi-overview-3.png)
+
+### B. Growth on time
+:::
+
+## IV. Expanded and Enriched Learning Time
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+![](images/whole-child-family-supports/wcfsi-overview-4.png)
+
+### B. Growth on time
+:::
+
+## V. Community-based Curriculum and Pedagogy
+
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+![](images/whole-child-family-supports/wcfsi-overview-5.png)
+
+### B. Growth on time
+:::
+
+## VI. Positive and Restorative School Climate
+::: panel-tabset
+### A. Overview of the Presence of the Support in Year 3
+
+![](images/whole-child-family-supports/wcfsi-overview-6.png)
+
+### B. Growth on time
+:::
