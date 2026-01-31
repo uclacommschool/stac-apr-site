@@ -2,7 +2,7 @@
 title: ""
 ---
 
-# Overview of Engaging Educational Partners in Year 3: QUESTION?
+# Overview of Engaging Educational Partners in Year 3: To what extent are schools engaging key interest-holders in community schools implementation?
 
 This section of the APR examines how schools collaborate with educational partners to advance teaching, learning, and student outcomes. The questions focus on the depth, quality, and purpose of partnerships in supporting school improvement as active contributors rather than as peripheral or transactional relationships.
 
@@ -10,11 +10,11 @@ Analysis of Year 3 APR data indicates that schools, across all three cohorts, we
 
 ![](images/engaging-educational-partners/y3-apr-overall.png)
 
-For Internal Use only, some of these groups are **very high in NA’s**, which means many respondents did not fill it out. This is something our recent revisions (e.g., removed Community Members as a reporting category; added the definition of Community Partners) can help address in the upcoming year.
+**Note:** some of these groups are **very high in NA’s**, which means many respondents did not fill it out. This is something our recent revisions (e.g., removed Community Members as a reporting category; added the definition of Community Partners) can help address in the upcoming year.
 
 **Engagement Rates**
 
-| Stakeholder Group  | 0%  | 1-24% | 25-49% | 50-74% | 75-100% | *NA*  |
+| Number of Grantees | 0%  | 1-24% | 25-49% | 50-74% | 75-100% | *NA*  |
 |--------------------|-----|-------|--------|--------|---------|-------|
 | Administrators     | 2   | 6     | 53     | 130    | 1664    | *64*  |
 | Certified Staff    | 22  | 325   | 189    | 221    | 1052    | *110* |
