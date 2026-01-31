@@ -6,8 +6,6 @@ website:
   title: "CCSPP APR"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: Capacity Building Strategies.qmd
         text: "CBS"      
       - href: Engaging Educational Partners.qmd
@@ -18,16 +16,6 @@ website:
         text: "Whole-Child Family Supports"
 
 
-  sidebar:
-    - title: "Statewide"
-      contents: 
-       - statewide.qmd
-
-    - title: "RTACs"
-      contents: 
-       - auto: "RTACs"
-    
-       
 format:
   html:
     theme:
