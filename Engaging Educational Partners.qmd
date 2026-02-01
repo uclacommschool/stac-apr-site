@@ -8,21 +8,10 @@ This section of the APR examines how schools collaborate with educational partne
 
 Analysis of Year 3 APR data indicates that schools, across all three cohorts, were most successful in engaging administrators (89.7% at 75-100% engagement rate), certified staff (58.2% at 75-100% engagement rate), and classified staff (44.2% at 75-100% engagement rate) in community schools implementation. More than 60% of respondents also reported engaging 75-100% of community partners. While 6% of grantees in Year 3 indicated engaging students at a rate of 0%, longitudinal trends of Y1 through Y3 showed that engagement of students is increasing (see below).
 
-![](images/engaging-educational-partners/y3-apr-overall.png)
+```{=html}
+<div class='tableauPlaceholder' id='viz1769935738367' style='position: relative'><noscript><a href='#'><img alt='Stacked_Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;En&#47;Engage_Ed_Partners_AllYears&#47;Stacked_Years&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Engage_Ed_Partners_AllYears&#47;Stacked_Years' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;En&#47;Engage_Ed_Partners_AllYears&#47;Stacked_Years&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1769935738367');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1127px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-**Note:** some of these groups are **very high in NA’s**, which means many respondents did not fill it out. This is something our recent revisions (e.g., removed Community Members as a reporting category; added the definition of Community Partners) can help address in the upcoming year.
-
-**Engagement Rates**
-
-| Number of Grantees | 0%  | 1-24% | 25-49% | 50-74% | 75-100% | *NA*  |
-|--------------------|-----|-------|--------|--------|---------|-------|
-| Administrators     | 2   | 6     | 53     | 130    | 1664    | *64*  |
-| Certified Staff    | 22  | 325   | 189    | 221    | 1052    | *110* |
-| Classified Staff   | 39  | 457   | 241    | 270    | 797     | *115* |
-| Community Members  | 386 | 560   | 17     | 4      | 9       | *943* |
-| Community Partners | 52  | 95    | 157    | 177    | 827     | *661* |
-| Family Members     | 45  | 761   | 333    | 210    | 364     | *206* |
-| Students           | 104 | 431   | 237    | 243    | 719     | *185* |
+```
 
 # Y1-Y3 Trends
 
@@ -30,7 +19,7 @@ Across Cohort 1 schools (N=450?), we see steady increases in the percentage of g
 
 ![](images/engaging-educational-partners/y1-y3-graph1.png)
 
-The following two graphsshowcase longitudinal trends of student and community partners engagement. Compared to previous years, the percentage of Cohort 1 grantees that reported engaging students and community partners at 0% dropped to the lowest in Year 3. Compared to Year 2, fewer Cohort 1 grantees in Year 3 reported engaging students at 25-74%. For student engagement, grantees moved from these middle categories to a lower (1-24%) or a higher engagement level (75-100%). For community partners engagement, the majority of Cohort 1 grantees moved up to the highest (75%) engagement level.
+The following two graphs showcase longitudinal trends of student and community partners engagement. Compared to previous years, the percentage of Cohort 1 grantees that reported engaging students and community partners at 0% dropped to the lowest in Year 3. Compared to Year 2, fewer Cohort 1 grantees in Year 3 reported engaging students at 25-74%. For student engagement, grantees moved from these middle categories to a lower (1-24%) or a higher engagement level (75-100%). For community partners engagement, the majority of Cohort 1 grantees moved up to the highest (75%) engagement level.
 
 ::: panel-tabset
 ### Students
@@ -46,4 +35,9 @@ The following two graphsshowcase longitudinal trends of student and community pa
 
 In Year 3, more than half of grantees reported engaging 75-100% of foster youth and racially marginalized students. However, foster youth and students experiencing homelessness are two groups where the highest percentage of grantees reported 0% engagement. In other words, ADD A SENTENCE HERE ABOUT HOW TO INTERPRET THIS.
 
-![](images/engaging-educational-partners/y3-apr-marginalized-groups.png)
+```{=html}
+<div class='tableauPlaceholder' id='viz1769935641870' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Y3&#47;Y3_Engaging_Marginalized&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Y3_Engaging_Marginalized&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Y3&#47;Y3_Engaging_Marginalized&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1769935641870');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+```
+
+
