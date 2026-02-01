@@ -6,9 +6,9 @@ title: ""
 
 This section of the APR captures the range and alignment of academic, social-emotional, health, and family supports available to students and families. The questions are designed to assess how well these supports are coordinated and responsive to local needs and assets.
 
-The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support: Integrated Student Supports and Services; Community, Student & Family Engagement; Collaborative Leadership Practices; Expanded & Enriched Learning Time; Community-based Curriculum & Pedagogy, and; Positive & Restorative School Climate. Each category is presented in a different section below. For each support identified under the category, grantees were asked to identify those that were part of their implementation plan. 
+The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support: Integrated Student Supports and Services; Community, Student & Family Engagement; Collaborative Leadership Practices; Expanded & Enriched Learning Time; Community-based Curriculum & Pedagogy, and; Positive & Restorative School Climate. Each category is presented in a different section below. For each support identified under the category, grantees were asked to identify those that were part of their implementation plan.
 
-INSERT TABLE OF ALL 6 SUPPORTS HERE, FOR YEAR 3? 
+INSERT TABLE OF ALL 6 SUPPORTS HERE, FOR YEAR 3?
 
 ## I. Integrated Student Supports and Services
 
@@ -31,7 +31,7 @@ Grantees were asked the number of individuals that were served by each support. 
 
 ![](images/IC.png){fig-align="center"}
 
-### D. Support/Service funding 
+### D. Support/Service funding
 
 To fund these supports and services, grantees were asked to report funding sources beyond CCSPP to sustain the support long-term. Grantees tapped into traditional funding sources, such as *LCFF to support their Multi-Tiered System of Support (25% of grantees)* and *Title I to support offerings of Academic Supports (14% of grantees) and the Multi-Tiered System of Support.* *Expanded Learning Opportunities Program (ELOP) is also used to support offerings of Academic Supports (15% of Grantees)*.
 
@@ -179,3 +179,11 @@ Grantees were asked the indicate the funding sources that helped them leverage e
 
 ![](images/VID.png){fig-align="center"}
 :::
+
+
+```{=html}
+<div class='tableauPlaceholder' id='viz1769936550238' style='position: relative'><noscript><a href='#'><img alt='Whole-Child and Family Supports Inventory Over Time: Progress on the implementation of support groups ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WC&#47;WCFSITableau&#47;WCFSITableau&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WCFSITableau&#47;WCFSITableau' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;WC&#47;WCFSITableau&#47;WCFSITableau&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1769936550238');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+```
+
+
