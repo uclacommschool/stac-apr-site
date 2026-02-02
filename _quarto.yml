@@ -14,7 +14,15 @@ website:
         text: "Goals & Actions"    
       - href: WCFSI.qmd
         text: "Whole-Child Family Supports"
+      - href: LEA/index.qmd
+        text: "LEA-Level Analysis"
 
+  sidebar:
+    - title: "LEA-Level Analysis"
+      contents: 
+       - LEA/cbs-lea.qmd
+       - LEA/system-level-analysis.qmd
+       - LEA/reflections.qmd
 
 format:
   html:

@@ -1,0 +1,53 @@
+---
+title: "Capacity Building Strategies Growth and Progress"
+---
+
+Across the LEA-level APR, LEAs were asked to self-assess their phase of growth and development (Visioning, Engaging, or Transforming) across the five CBSs.From Year 2 (2023–24) to Year 3 (2024–25), LEAs demonstrate consistent shift away from Visioning and toward Engaging across all five strategies for the combined Cohorts 1 and 2, indicating that more LEAs see themselves moving from early planning into deeper implementation of the community schools approach.
+
+In the combined Cohorts 1 and 2 view, Engaging is the most common phase in Year 3 for every CBS, with particularly strong concentrations in Shared Commitment, Understanding, and Priorities (72% Engaging) and Sustaining Staff and Resources (74% Engaging). Strategic Community Partnerships shows the largest share of Transforming in Year 3 (14%), suggesting that a subset of LEAs report deeper, more established practice in partnership development and alignment. Centering Community-Based Learning remains comparatively more concentrated in Visioning in Year 3 (37%) than the other strategies, reinforcing that many LEAs are still building the conditions—time, staffing, schedules, and shared practice—needed to more fully integrate community-connected learning with the instructional core.
+
+## COHORTS 1 and 2
+
+(All LEAs that started on years 1 and 2)
+
+![](/images/LEA/cbs-cohort-1-2.png)
+
+# Shared Commitment, Understanding, and Priorities
+
+Shared Commitment shows one of the largest shifts from Year 2 to Year 3: Visioning declines (59% to 19%) while Engaging increases (49% to 72%), alongside a modest increase in Transforming (4% to 7%). LEA narratives help explain this movement toward Engaging. Reflections frequently described strengthening shared direction through listening and planning processes—using surveys, needs/asset assessments, and stakeholder input to clarify priorities and identify which student groups, barriers, or outcomes to address first. Many LEAs also emphasized the role of advisory structures and feedback loops (e.g., councils, committees, and other mechanisms) that distribute ownership for setting priorities beyond a single role or department. For example, one LEA described how feedback structures supported both belonging and academic partnership: “By listening and responding to feedback, from all stakeholders through surveys, focus groups and interviews, participation in advisory councils, and providing opportunities for student voice to be amplified, our sites have become a hub of belonging and academic partnership.”
+
+At the same time, LEAs noted persistent implementation challenges that can constrain progress beyond Engaging. Narratives emphasized that shared commitment depends on sustained participation and trust, and that maintaining consistent engagement—especially with families—can be difficult due to competing responsibilities, limited time, and barriers such as transportation or communication challenges. LEAs also described how staffing or leadership transitions can disrupt continuity and require teams to revisit agreements, roles, and priorities rather than steadily deepening implementation.
+
+# Collaborative Leadership
+
+Collaborative Leadership also shows a clear shift toward Engaging: Visioning declines from 68% in Year 2 to 24% in Year 3, while Engaging increases from 40% to 66% and Transforming increases from 4% to 8%. When describing their progress, LEAs mentioned more coordinated internal systems through cross-role teams, regular meeting routines, and clearer role-to-role coordination. A notable feature is the increased use of data and dashboards to identify needs (e.g., attendance, climate, discipline) and to support more consistent progress monitoring and shared problem-solving, often aligned with MTSS-type structures and common intervention routines. As one LEA summarized, “Through shared leadership teams, professional development efforts, and cross-agency collaboration, our district is building a sustainable foundation for student-centered, community-embedded support systems.”
+
+At the same time, LEAs pointed to conditions that continue to limit collaboration: staffing shortages and turnover that disrupt continuity, and persistent challenges protecting time to coordinate amid urgent student needs. Many also described the growing complexity of mental health, social-emotional, and behavior-related needs, which increases coordination demands and can strain student support systems beyond current staffing and partner capacity.
+
+# Sustaining Staff and Resources
+
+Sustaining Staff and Resources demonstrates strong Year 3 concentration in Engaging (74%), with Visioning declining from 49% to 17% and Transforming increasing from 3% to 7%. Qualitative reflections align with this growth pattern by emphasizing practical capacity-building achievements: CCSPP funding and the community schools approach enabled LEAs to invest in staffing roles, coordination functions, and infrastructure that support whole-child implementation. Several narratives highlighted the importance of dedicated coordination capacity (including community schools coordinator roles) to organize partnerships, manage service workflows, coordinate family engagement, and support data-informed routines. LEAs also described resource development through dedicated spaces and infrastructure (e.g., wellness spaces or family resource areas) intended to make supports more accessible and consistent.
+
+However, the dominant challenge within this strategy is sustainability. LEAs expressed concern about maintaining services, roles, and programming amid cost pressures and staffing constraints, with recruitment and retention challenges slowing implementation or limiting consistency. This sustainability concern is captured directly in one reflection: “Challenges this year included the need to expand community partnerships and to pursue additional funding opportunities to ensure the sustainability of key positions beyond the duration of the CCSPP grant.”
+
+# Strategic Community Partnerships
+
+Strategic Community Partnerships stands out quantitatively as the strategy with the largest share of Transforming in Year 3 (14%), alongside a decline in Visioning (47% to 12%) and an increase in Engaging (55% to 72%). LEA narratives help interpret this deeper maturation by describing partnerships as central mechanisms for addressing barriers to learning that schools cannot solve alone. Across reflections, LEAs commonly cited partnership-enabled supports such as mental health services and counseling, health-related services (including medical/dental/vision supports), and basic needs assistance (food distribution, clothing/hygiene supports, housing-related supports, and transportation assistance). Rather than “add-ons,” these partnerships were frequently framed as core to implementation, with CCSPP supporting coordination capacity, creating a shared framework for partner integration, and expanding the range of services accessible to students and families. For example: “ABC Charter strengthened its wraparound services by creating a dedicated counseling space and maintaining an on-site food pantry, clothing closet, and hygiene supply distribution system. The school publicly honors graduates, offers incentives for student achievement, and continues to grow trusted partnerships.”
+
+# Centering Community-Based Learning
+
+Centering Community-Based Learning shows meaningful growth toward Engaging (40% to 58%) and a decrease in Visioning (63% to 37%) from Year 2 to Year 3, though it remains more Visioning-heavy than other strategies in Year 3. LEA narratives suggest that this is less about the perceived value of community-connected learning and more about implementation conditions that determine consistency and equity at scale. A recurring challenge is that these opportunities depend on consistent student participation, which is undermined when attendance is unstable and when students face barriers such as transportation or competing family obligations. One LEA summarized the linkage between attendance and access to programming: “These approaches have contributed to gradual declines in chronic absenteeism rates, which directly impacts students’ access to the full breadth of academic and enrichment programming.” LEAs also noted capacity constraints—staffing coverage, scheduling, and space—that limit how many students can be served and how reliably programs can run across the year.
+
+::: panel-tabset
+### COHORT 1
+
+(LEAs that started on year 1 implementation)
+
+![](/images/LEA/cbs-cohort-1.png)
+
+### COHORT 2
+
+(LEAs that started on year 2 implementation)
+
+![](/images/LEA/cbs-cohort-2.png)
+:::
