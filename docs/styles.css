@@ -1,47 +1,104 @@
 /* css styles */
 
-/* Load Lato from Google Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+/* Optional: load Montserrat (STAC font option) for supporting UI text if desired */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap");
 
-/* Apply Lato everywhere */
-body {
-  font-family: "Lato", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-               Roboto, "Helvetica Neue", Arial, sans-serif;
+/* ------------------------------------------------------------
+   STAC / UCLA Color System (from your palette)
+   Prefer S-TAC brand colors (#097691, #5CBC5A, #1D6EA5, #005DAA)
+   ------------------------------------------------------------ */
+:root {
+  /* S-TAC Brand Colors (use often) */
+  --stac-teal:  #097691;
+  --stac-green: #5CBC5A;
+  --stac-blue-1:#1D6EA5;
+  --stac-blue-2:#005DAA;   /* best “primary” candidate */
+
+  /* UCLA secondary palette */
+  --ucla-blue:  #2774AE;
+  --ucla-gold:  #FFD100;
+
+  /* UCLA blues (for hovers/contrast) */
+  --ucla-darkest-blue:#003B5C;
+  --ucla-darker-blue: #005587;
+  --ucla-lighter-blue: #8BB8E8;
+  --ucla-lightest-blue:#DAEBFE;
+
+  /* Gold variants */
+  --ucla-darkest-gold:#FFBB1C;
+  --ucla-darker-gold: #FFC72C;
+
+  /* Additional palette (optional) */
+  --stac-fig-green:#73B662;
+  --stac-gold-2:   #F4C210;
+  --stac-cyan:     #0DB0D8;
+  --stac-cyan-lite:#87E1F8;
+  --stac-cyan-bg:  #E7F9FE;
+  --neutral-700:   #7F7F7F;
+
+  /* Do not use unless necessary: #913D88 */
 }
 
-h1, h2, h3, h4, h5, h6,
+/* ------------------------------------------------------------
+   Typography (per guide convention)
+   Titles: Arial
+   Subtitles + Main: Avenir (with fallbacks)
+   ------------------------------------------------------------ */
+body {
+  font-family: Avenir, "Avenir Next", "Gill Sans", "Montserrat", system-ui, -apple-system,
+               "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Titles / headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", Arial, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* UI chrome */
 .navbar,
 .sidebar,
 .toc {
-  font-family: "Lato", system-ui, -apple-system, sans-serif;
+  font-family: Avenir, "Avenir Next", "Gill Sans", "Montserrat", Arial, sans-serif;
 }
 
-
-/*classic UCLA blue bar*/
+/* ------------------------------------------------------------
+   Navbar (switch to STAC primary blue)
+   ------------------------------------------------------------ */
 .navbar {
-  background-color: #2774AE !important;
+  background-color: var(--stac-blue-2) !important;
 }
 
+/* Navbar links */
 .navbar a,
 .navbar-brand {
   color: white !important;
 }
 
 .navbar a:hover {
-  color: #FFD100 !important;
+  /* Use UCLA gold as the high-contrast accent */
+  color: var(--stac-green) !important;
 }
 
-/*side UCLA styling*/
-
+/* ------------------------------------------------------------
+   Sidebar styling (light STAC background + STAC active state)
+   ------------------------------------------------------------ */
 .sidebar {
-  background-color: #F5F7FA;
+  background-color: var(--stac-cyan-bg);
 }
 
 .sidebar a.active {
-  color: #2774AE;
+  color: var(--stac-blue-2);
   font-weight: 600;
 }
 
+/* Optional: non-active sidebar link hover */
+.sidebar a:hover {
+  color: var(--stac-teal);
+}
+
+/* ------------------------------------------------------------
+   Search styling in navbar
+   ------------------------------------------------------------ */
 
 /* Search icon in navbar */
 .navbar .aa-SearchIcon,
@@ -53,29 +110,29 @@ h1, h2, h3, h4, h5, h6,
 /* Search input box */
 .navbar .aa-Input {
   background-color: white;
-  color: #2774AE;
+  color: var(--stac-blue-2);
   border: 1px solid white;
 }
 
 /* Placeholder text */
 .navbar .aa-Input::placeholder {
-  color: #2774AE;
+  color: var(--stac-blue-2);
   opacity: 0.7;
 }
 
 /* Search button */
 .navbar .aa-SubmitButton {
-  background-color: #2774AE;
+  background-color: var(--stac-blue-1);
   border: 1px solid white;
 }
 
 /* Hover / focus */
 .navbar .aa-SubmitButton:hover,
 .navbar .aa-SubmitButton:focus-within {
-  background-color: #1E4F8A;
+  background-color: var(--ucla-darkest-blue);
 }
 
-/* Search modal results header */
+/* Search modal results header / detached button */
 .aa-DetachedSearchButton {
   border-color: white;
 }

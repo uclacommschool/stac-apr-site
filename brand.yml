@@ -1,18 +1,22 @@
 color:
-  primary: "#2774AE"      # UCLA Blue
-  secondary: "#FFD100"    # UCLA Gold
-  info: "#8BB8E8"
-  success: "#5CB85C"
-  warning: "#F0AD4E"
-  danger: "#D9534F"
+  # --- STAC Brand First ---
+  primary: "#005DAA"        # STAC primary blue
+  secondary: "#5CBC5A"      # STAC green (accent / highlights)
+  info: "#1D6EA5"           # STAC secondary blue
 
+  # --- Semantic colors (aligned to palette where possible) ---
+  success: "#73B662"        # STAC figure/table green
+  warning: "#FFD100"        # UCLA Gold (high-visibility, use sparingly)
+  danger: "#7F7F7F"         # Neutral gray (avoid introducing new reds)
+
+  # --- Base colors ---
   background: "#FFFFFF"
   foreground: "#1A1A1A"
 
-  link: "#2774AE"
-  link-hover: "#1E4F8A"
+  # --- Links ---
+  link: "#005DAA"           # STAC blue
+  link-hover: "#003B5C"     # UCLA darkest blue (strong contrast)
     
-       
 format:
   html:
     theme:
@@ -20,6 +24,4 @@ format:
       - brand
     css: styles.css
     toc: false
-
-editor: visual
 
