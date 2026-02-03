@@ -7,9 +7,9 @@ website:
   navbar:
     left:
       - href: Capacity Building Strategies.qmd
-        text: "CBS"      
+        text: "Capacity Building Strategies"      
       - href: Engaging Educational Partners.qmd
-        text: "Engaging Partners"      
+        text: "Engaging Educational Partners"      
       - href: Goals and Actions.qmd
         text: "Goals & Actions"    
       - href: WCFSI.qmd
