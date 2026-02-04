@@ -11,10 +11,10 @@ website:
         text: "Capacity Building Strategies"      
       - href: Engaging Educational Partners.qmd
         text: "Engaging Educational Partners"      
-      - href: Goals and Actions.qmd
-        text: "Goals & Actions"    
       - href: WCFSI.qmd
-        text: "Whole-Child Family Supports"
+        text: "Whole-Child & Family Supports"
+      - href: Goals and Actions.qmd
+        text: "Goals & Actions" 
       - href: LEA/index.qmd
         text: "LEA-Level Analysis"
 

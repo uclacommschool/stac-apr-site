@@ -2,10 +2,6 @@
 title: ""
 ---
 
-# Year 3 Overview for Cohorts 1-3
-
-![](images/whole-child-family-supports/Y3%20Overview%20for%20Cohorts%201-3.png)
-
 # Overview of the *Whole-Child and Family Supports Inventory* in Year 3
 
 This section of the APR captures the range and alignment of academic, social-emotional, health, and family supports available to students and families. The questions are designed to assess how well these supports are coordinated and responsive to local needs and assets.
@@ -13,6 +9,10 @@ This section of the APR captures the range and alignment of academic, social-emo
 The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support: Integrated Student Supports and Services; Community, Student & Family Engagement; Collaborative Leadership Practices; Expanded & Enriched Learning Time; Community-based Curriculum & Pedagogy, and; Positive & Restorative School Climate. Each category is presented in a different section below. For each support identified under the category, grantees were asked to identify those that were part of their implementation plan.
 
 INSERT TABLE OF ALL 6 SUPPORTS HERE, FOR YEAR 3?
+
+# Year 3 Overview for Cohorts 1-3
+
+![](images/whole-child-family-supports/Y3%20Overview%20for%20Cohorts%201-3.png)
 
 ## I. Integrated Student Supports and Services
 
