@@ -2,7 +2,9 @@
 title: "" 
 ---
 
-# Overview of *Capacity Building Strategies* in Year 3: Are CCSPP grantees building their capacity to implement the approach?
+# Are CCSPP grantees building their capacity to implement the approach?
+
+## Overview of *Capacity Building Strategies* in Year 3
 
 The Capacity-Building Strategies (CBS) section of the APR assesses how grantees are developing the core organizational, relational, and leadership capacities needed to implement and sustain the community school strategy. The questions focus on key strategies that support coherent, long-term systems change rather than isolated programming.
 
