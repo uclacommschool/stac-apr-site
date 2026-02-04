@@ -10,6 +10,7 @@
 :root {
   /* S-TAC Brand Colors (use often) */
   --stac-teal:  #097691;
+  --stac-dark-teal: #27475C;
   --stac-green: #5CBC5A;
   --stac-blue-1:#1D6EA5;
   --stac-blue-2:#005DAA;   /* best “primary” candidate */
@@ -65,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
    Navbar (switch to STAC primary blue)
    ------------------------------------------------------------ */
 .navbar {
-  background-color: var(--stac-blue-2) !important;
+  background-color: var(--stac-dark-teal) !important;
 }
 
 /* Navbar links */
