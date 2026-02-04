@@ -7,23 +7,29 @@ website:
   navbar:
     logo: "images/logo/STAC-Logo-White.png"
     left:
-      - href: Capacity Building Strategies.qmd
-        text: "Capacity Building Strategies"      
+      - sidebar:CBS
       - href: Engaging Educational Partners.qmd
         text: "Engaging Educational Partners"      
       - href: WCFSI.qmd
         text: "Whole-Child & Family Supports"
       - href: Goals and Actions.qmd
-        text: "Goals & Actions" 
-      - href: LEA/index.qmd
+        text: "Goals & Actions"
+      - href: reflections.qmd
+        text: "Reflections"    
+      - href: system-level-analysis.qmd
         text: "LEA-Level Analysis"
 
   sidebar:
-    - title: "LEA-Level Analysis"
+    - id: CBS
+      title: "Capacity Building Strategies"
+      style: "docked"
+      collapse-level: 2
       contents: 
-       - LEA/cbs-lea.qmd
-       - LEA/system-level-analysis.qmd
-       - LEA/reflections.qmd
+        - href: CBS/Schools - Capacity Building Strategies.qmd
+          text: "School"  
+        - href: CBS/cbs-lea.qmd
+          text: "LEA"
+    
 
 format:
   html:
