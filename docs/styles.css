@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Dropdown items */
 .navbar .dropdown-menu .dropdown-item {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 
 /* Dropdown item text (default state) */

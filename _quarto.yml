@@ -4,8 +4,9 @@ project:
 
 website:
   title: ""
+  favicon: "images/logo/STAC-Logo-Vertical.png"
   navbar:
-    logo: "images/logo/STAC-Logo-White.png"
+    logo: "images/logo/STAC-Logo-Horizontal-White.png"
     left:
       - sidebar:CBS
       - href: Engaging Educational Partners.qmd
