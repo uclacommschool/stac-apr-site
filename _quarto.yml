@@ -22,7 +22,7 @@ website:
   sidebar:
     - id: CBS
       title: "Capacity Building Strategies"
-      style: "docked"
+      style: "floating"
       collapse-level: 2
       contents: 
         - href: CBS/Schools - Capacity Building Strategies.qmd
