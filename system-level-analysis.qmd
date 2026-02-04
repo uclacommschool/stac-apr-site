@@ -1,6 +1,9 @@
 ---
-title: "System-level Supports and Coordination"
+title: ""
+pagetitle: "LEA-Level Analysis"
 ---
+
+# System-level Supports and Coordination
 
 In this section of the APR, LEAs were asked about the systems-level infrastructure and coordination supports they have in place to advance community schools implementation. Specifically, LEAs reported the extent to which they engage in a set of systems-level coordination activities—such as learning and reflection through a steering committee/advisory council, policy alignment, data systems for continuous improvement, professional learning supports, sustainability planning, and coordination with external partners.
 
