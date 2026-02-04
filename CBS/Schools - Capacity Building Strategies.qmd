@@ -1,5 +1,6 @@
 ---
-title: "" 
+title: ""
+pagetitle: "Capacity Based Strategies: School-Level"
 ---
 
 # Are CCSPP grantees building their capacity to implement the approach?

@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: "Goals & Actions"
 ---
 
 # What goals are grantees prioritizing and how are they making progress in meeting these goals?
