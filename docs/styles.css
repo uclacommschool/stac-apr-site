@@ -69,6 +69,11 @@ h1, h2, h3, h4, h5, h6 {
   background-color: var(--stac-dark-teal) !important;
 }
 
+/* Navbar font size (top-level items) */
+.navbar .navbar-nav > .nav-item > .nav-link {
+  font-size: 0.9rem;
+}
+
 /* Navbar links */
 .navbar a,
 .navbar-brand {
@@ -77,6 +82,29 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar a:hover {
   /* Use UCLA gold as the high-contrast accent */
+  color: var(--stac-green) !important;
+}
+
+
+/* Navbar dropdown menu (base) */
+.navbar .dropdown-menu {
+  background-color: var(--stac-teal) !important;
+}
+
+/* Navbar font size (top-level items) */
+.navbar .navbar-nav > .nav-item > .nav-link {
+  font-size: 0.9rem;
+}
+
+/* Dropdown item text (default state) */
+.navbar .dropdown-menu .dropdown-item {
+  color: white !important;
+}
+
+/* Hover state: dark teal background + green text */
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus {
+  background-color: var(--stac-dark-teal) !important;
   color: var(--stac-green) !important;
 }
 

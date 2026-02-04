@@ -4,7 +4,7 @@ title: ""
 
 # What goals are grantees prioritizing and how are they making progress in meeting these goals?
 
-## Overview of Goals and Actions in Year 3
+## Overview of *Goals and Actions* in Year 3
 
 This section of the APR documents how grantees translate community priorities into clear goals and aligned actions. The questions assess the coherence, intentionality, and feasibility of planned implementation strategies.
 
@@ -83,4 +83,3 @@ Example: “We strengthened our data systems to better identify trends and track
 3.  **Mental health and social-emotional support:** Schools described addressing underlying social-emotional and mental health needs that impact attendance. Schools partner with local mental health agencies, provide on-campus counseling, and hire social workers to coordinate referrals. Professional development and trauma-informed practices support these efforts.
 
 Example: “Mental health services were provided to students and families to support social-emotional needs that contributed to frequent absences.”
-
