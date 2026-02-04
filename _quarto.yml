@@ -3,8 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "CCSPP APR"
+  title: ""
   navbar:
+    logo: "images/logo/STAC-Logo-White.png"
     left:
       - href: Capacity Building Strategies.qmd
         text: "Capacity Building Strategies"      
