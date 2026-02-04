@@ -21,10 +21,14 @@ website:
         text: "Whole-Child & Family Supports"
       - href: Goals and Actions.qmd
         text: "Goals & Actions"
-      - href: reflections.qmd
-        text: "Reflections"    
+      - text: "Reflections"
+        menu:
+         - href: reflections/school-reflections.qmd
+           text: "School"
+         - href: reflections/lea-reflections.qmd
+           text: "LEA"
       - href: system-level-analysis.qmd
-        text: "LEA-Level Analysis"
+        text: "LEA"
 
 
 format:
