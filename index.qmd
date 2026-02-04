@@ -2,9 +2,9 @@
 title: ""
 ---
 
-# California Community Schools Partnership Program Annual Progress Report: Results Portal
+# California Community Schools Partnership Program Annual Progress Report
 
-## About
+## Results Portal
 
 **The Annual Progress Report serves as a tool to assess implementation progress and efforts, and to encourage reflection as part of an ongoing continuous improvement process.** The APR was designed to be filled out by each school's CCSPP shared decision-making team or council to ensure the perspectives of students, staff, families and community partners are captured. The reporting portal is intended to align with required annual update presentations on community school planning, including data and outcomes from the prior year at each school site.
 
