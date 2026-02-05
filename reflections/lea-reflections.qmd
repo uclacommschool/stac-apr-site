@@ -3,11 +3,11 @@ title: ""
 pagetitle: "LEA Reflections"
 ---
 
-# What are the  Reflections: Identified Needs and next steps based on a review of data?
+# What are the identified needs and next steps based on a review of data?
 
 LEAs were asked to describe 1) any areas that need significant improvement based on a review of the site-level APRs, and outcome data, Dashboard indicators, and 2) any steps taken to address those areas.
 
-In Year 3, Cohort 1-3 LEAs described using California School Dashboard indicators and local data (local assessments, surveys, and site-level program narratives) to identify persistent gaps and to prioritize a small set of outcomes for improvement. Overall, reflections show a consistent improvement approach: focus on high-leverage outcomes (especially attendance and academic performance) while strengthening the enabling systems—data routines, tiered supports, cross-role coordination, partnerships, and family engagement—needed to make progress sustainable.
+In Year 3, cohort 1-3 LEAs described using California School Dashboard indicators and local data (local assessments, surveys, and site-level program narratives) to identify persistent gaps and to prioritize a small set of outcomes for improvement. Overall, reflections show a consistent improvement approach: focus on high-leverage outcomes (especially attendance and academic performance) while strengthening the enabling systems—data routines, tiered supports, cross-role coordination, partnerships, and family engagement—needed to make progress sustainable.
 
 ![](/images/LEA/reflections.png)
 
