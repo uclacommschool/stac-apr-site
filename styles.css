@@ -108,6 +108,17 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--stac-green) !important;
 }
 
+/* Nav bar toggler */
+/* Navbar hamburger (mobile menu) icon */
+.navbar-toggler {
+  border-color: white !important;
+}
+
+/* Hamburger icon lines */
+.navbar-toggler-icon {
+  filter: brightness(0) invert(1);
+}
+
 /* ------------------------------------------------------------
    Sidebar styling (light STAC background + STAC active state)
    ------------------------------------------------------------ */
