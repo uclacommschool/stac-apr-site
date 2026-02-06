@@ -11,11 +11,13 @@ This section of the APR captures the range and alignment of academic, social-emo
 
 The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support: Integrated Student Supports and Services; Community, Student & Family Engagement; Collaborative Leadership Practices; Expanded & Enriched Learning Time; Community-based Curriculum & Pedagogy, and; Positive & Restorative School Climate. Each category is presented in a different section below. For each support identified under the category, grantees were asked to identify those that were part of their implementation plan.
 
-INSERT TABLE OF ALL 6 SUPPORTS HERE, FOR YEAR 3?
-
 # Year 3 Overview for Cohorts 1-3
 
-![](images/whole-child-family-supports/Y3%20Overview%20for%20Cohorts%201-3.png)
+![](images/XA.png)
+
+# Cohort 1 Overview for Years 1-3
+
+![](images/XB.png)
 
 ## I. Integrated Student Supports and Services
 
@@ -26,19 +28,19 @@ In Year 3, 87% of grantees indicated that Mental Health Screening Services were 
 
 ![](images/IA.png){fig-align="center"}
 
-### B. Implementation of the Supports/Service
+### Implementation of the Supports/Service
 
 A majority of the Integrated Student Supports and Services offered by grantees in Year 3 were previously offered prior to the CCSPP and integrated into their community schools work. Over 80% of grantees indicated that they previously implemented each of the supports. One exception is the Coordination of Services Team (e.g., COST team), with 25% of grantees indicating that implementation was the result of CCSPP funding.
 
 ![](images/IB.png){fig-align="center"}
 
-### C. Served individuals by Support/Service
+### Served individuals by Support/Service
 
 Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around the presence of integrated student supports and services, it is possible to see that *...*.
 
 ![](images/IC.png){fig-align="center"}
 
-### D. Support/Service Funding
+### Support/Service Funding
 
 To fund these supports and services, grantees were asked to report funding sources beyond CCSPP to sustain the support long-term. Grantees tapped into traditional funding sources, such as *LCFF to support their Multi-Tiered System of Support (25% of grantees)* and *Title I to support offerings of Academic Supports (14% of grantees) and the Multi-Tiered System of Support.* *Expanded Learning Opportunities Program (ELOP) is also used to support offerings of Academic Supports (15% of Grantees)*.
 
@@ -48,25 +50,25 @@ To fund these supports and services, grantees were asked to report funding sourc
 ## II. Community, Student, and Family Engagement
 
 ::: panel-tabset
-### A. Availability/Presence
+### Availability/Presence
 
 For supports that are categorized as Community, Student, and Family Engagement supports/services, **90% of grantees indicated implementing Multiple Modes of Family Communication and Involvement.** Approximately **two-thirds of grantees indicated that they were implementing Home Visits in Year 3.**
 
 ![](images/IIA.png){fig-align="center"}
 
-### B. Implementation of the Support/Services
+### Implementation of the Support/Services
 
 Grantees indicated that providing supports and services that aimed to engage students, families, and community was integrated into their community schools work. *Almost one-third of grantees indicated that the provision of Adult Education programs was made possible through CCSPP.*
 
 ![](images/IIB.png){fig-align="center"}
 
-### C. Individuals served by Support/Service
+### Individuals served by Support/Service
 
 Grantees were asked the number of individuals that were served by each support. In Year 3 of the CCSPP Implementation Grant, for those support that are grouped around Community, Student, and Family Engagement, it is possible to see that *NA*
 
 ![](images/IIC.png){fig-align="center"}
 
-### D. Supports funding
+### Supports funding
 
 For those supports/services that are categorized under Community, Student, and Family Engagement, *LCFF is used frequently to fund the Multiple Modes of Family Communication and Involvement and to support Home Visits*.
 
@@ -76,25 +78,25 @@ For those supports/services that are categorized under Community, Student, and F
 ## III. Collaborative Leadership Practices
 
 ::: panel-tabset
-### A. Availability/Presence of the Support/Service
+### Availability/Presence of the Support/Service
 
 For those supports/services that are grouped under the category of Collaborative Leadership Practices *89% of grantees have implemented and formed a shared decision-making body that aims to center the voices of all community members, including students, families, and other interest-holders*.
 
 ![](images/IIIA.png){fig-align="center"}
 
-### B. Implementation of the Support/Services
+### Implementation of the Support/Services
 
 For those support that are grouped under the category of Collaborative Leadership practices, *31% of grantees started implementing Parent Leadership Development Opportunities exclusively because the CCSPP funding*. In addition, *28% of grantees mention starting the Shared decision-making bodies exclusively as a result of CCSPP funding*.
 
 ![](images/IIIB.png){fig-align="center"}
 
-### C. Served individuals
+### Served individuals
 
 Grantees were asked the number of individuals that were served by each support. For those supporta that are grouped under Collaborative Leadership Practices, it is possible to see that *...*.
 
 ![](images/IIIC.png){fig-align="center"}
 
-### D. Supports funding
+### Supports funding
 
 For those support that are grouped under Collaborative Leadership practices, *Teacher Leadership Development and Opportunities are being funded by a diversity of sources --such as LCFF, General Funds, Title I, among others*. In addition, newly implemented *Shared Decision-Making Bodies are being funded by many sources, including the LCFF, General Funds, Title I funds, and District Funds*.
 
@@ -104,25 +106,25 @@ For those support that are grouped under Collaborative Leadership practices, *Te
 ## IV. Expanded and Enriched Learning Time
 
 ::: panel-tabset
-### A. Presence of the Supports/Services
+### Presence of the Supports/Services
 
 For those support that are grouped under the category of Expanded and Enriched Learning Time, *78% of grantees implemented After School programs*.
 
 ![](images/IVA.png){fig-align="center"}
 
-### B. Implementation of the Supports/Services
+### Implementation of the Supports/Services
 
 For those support/services that are grouped under the category of Expanded and Enriched Learning Time, *15% of grantees mention starting Before School programs exclusively as a result of CCSPP funding*.
 
 ![](images/IVB.png){fig-align="center"}
 
-### C. Served individuals
+### Served individuals
 
 For those supports/services that are grouped under the category of Expanded and Enriched Learning Time, it is possible to see that *NA*.
 
 ![](images/IVC.png){fig-align="center"}
 
-### D. Supports funding
+### Supports funding
 
 For those support that are grouped under the category of Expanded and Enriched Learning Time, *Expanded Learning Opportunities Program (ELOP) is the main funding source for After School programs and Summer Programs*.
 
@@ -132,27 +134,27 @@ For those support that are grouped under the category of Expanded and Enriched L
 ## V. Community-based Curriculum and Pedagogy
 
 ::: panel-tabset
-### A. Availability/Overview of the Presence of the Support/Service
+### Availability/Overview of the Presence of the Support/Service
 
 For those support that fall under the category of Community-based Curriculum and Pedagogy Practices, *56% of grantees mention implementing a Culturally-Sustaining and Responsive Curriculum and Pedagogy*.
 
 ![](images/VA.png){fig-align="center"}
 
-### B. Implementation of the Support/Services
+### Implementation of the Support/Services
 
 For those supports that are categorized under Community-based Curriculum and Pedagogy Practices, *27% of grantees mention that they started implementing Community-Based Curriculum, Pedagogy and Projects exclusively as a result of the CCSPP funding*.
 
 ![](images/VB.png){fig-align="center"}
 
-### C. Served Individuals
+### Served Individuals
 
 For those support that are grouped under the category of Community-based Curriculum and Pedagogy Practices, *...*.
 
 ![](images/VC.png){fig-align="center"}
 
-More specifically ...
 
-### D. Supports/Services Funding
+
+### Supports/Services Funding
 
 For those support that are categorized under Community-based Curriculum and Pedagogy Practices, *grantees are using a diversity of funding sources. In particular,...*.
 
@@ -162,25 +164,25 @@ For those support that are categorized under Community-based Curriculum and Peda
 ## VI. Positive and Restorative School Climate
 
 ::: panel-tabset
-### A. Availability/Overview of the Presence of the Support/Service
+### Availability/Overview of the Presence of the Support/Service
 
 For those supports/services that are categorized under Positive and Restorative School Climate, *89% of grantees mention implementing Programs and Practices that Teach Social-Emotional Skills*.
 
 ![](images/VIA.png){fig-align="center"}
 
-### B. Implementation of the Support/Services
+### Implementation of the Support/Services
 
 Grantees were asked when did they start implementing each support. For those support that are grouped under Positive and Restorative School Climate, *16% of grantees mention that the Programs and Practices that Teach Social-Emotional Skills that they implemented started exclusively as a result of CCSPP funding*.
 
 ![](images/VIB.png){fig-align="center"}
 
-### C. Served individuals by support
+### Served individuals by support
 
 For those support that are grouped around Positive and Restorative School Climate,... *NA*.
 
 ![](images/VIC.png){fig-align="center"}
 
-### D. Supports funding
+### Supports funding
 
 For those supports that are grouped under Positive and Restorative School Climate, it is possible to see that *grantees are using the LCFF as the main source to fund supports related to Positive and Restorative School Climate*.
 
