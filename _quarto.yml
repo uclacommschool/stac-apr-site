@@ -11,7 +11,7 @@ website:
       - text: "Capacity Building Strategies"
         menu:
          - href: CBS/Schools - Capacity Building Strategies.qmd
-           text: "School"
+           text: "Site"
          - href: CBS/cbs-lea.qmd
            text: "LEA"
            
@@ -24,7 +24,7 @@ website:
       - text: "Reflections"
         menu:
          - href: reflections/school-reflections.qmd
-           text: "School"
+           text: "Site"
          - href: reflections/lea-reflections.qmd
            text: "LEA"
       - href: system-level-analysis.qmd
