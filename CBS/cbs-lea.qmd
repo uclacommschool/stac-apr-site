@@ -38,11 +38,11 @@ Centering Community-Based Learning shows meaningful growth toward Engaging (40% 
 For Cohort 1 LEAs, the Year 2 to Year 3 APR data suggests continued movement from early planning into deeper implementation across most of the five capacity-building strategies, with a noticeable rise in the Engaging phase in several areas. For example, the Engaging share increases from 2023–24 to 2024–25 in Shared Commitment, Understanding, and Priorities (24% to 33%), Collaborative Leadership (18% to 31%), Sustaining Staff and Resources (26% to 32%), and Strategic Community Partnerships (23% to 30%). At the same time, Transforming remains relatively small across strategies, with the clearest presence in Strategic Community Partnerships (9% in both years) and some growth in Sustaining Staff and Resources (2% to 6%). Centering Community-Based Learning stands out as the one area where Transforming is limited and declines (7% to 2%), even as Engaging increases (19% to 27%), indicating that instructional-core shifts may still be developing more slowly than other system-building efforts.
 
 ::: panel-tabset
-### COHORT 1
+### Cohort 1
 
 ![](/images/LEA/cbs-cohort-1.png)
 
-### COHORT 2
+### Cohort 2
 
 ![](/images/LEA/cbs-cohort-2.png)
 :::
