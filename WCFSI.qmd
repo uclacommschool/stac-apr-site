@@ -23,9 +23,10 @@ The 27 supports in the inventory are divided into six categories, according to t
 ![](images/WCFSI_latest/XB.png){fig-align="center"}
 :::
 
-::: panel-tabset
+
 ## I. Integrated Student Supports and Services
 
+<details>
 ::: panel-tabset
 ### Availability/Presence
 
@@ -51,11 +52,12 @@ To fund these supports and services, grantees were asked to report funding sourc
 
 ![](images/WCFSI_latest/ID.png){fig-align="center"}
 :::
-
+</details>
 
 
 ## II. Community, Student, and Family Engagement
 
+<details>
 ::: panel-tabset
 ### Availability/Presence
 
@@ -81,11 +83,12 @@ For those supports/services that are categorized under Community, Student, and F
 
 ![](images/WCFSI_latest/IID.png){fig-align="center"}
 :::
-
+</details>
 
 
 ## III. Collaborative Leadership Practices
 
+<details>
 ::: panel-tabset
 ### Availability/Presence of the Support/Service
 
@@ -111,11 +114,12 @@ For those support that are grouped under Collaborative Leadership practices, *Te
 
 ![](images/WCFSI_latest/IIID.png){fig-align="center"}
 :::
-
+</details>
 
 
 ## IV. Expanded and Enriched Learning Time
 
+<details>
 ::: panel-tabset
 ### Presence of the Supports/Services
 
@@ -141,11 +145,12 @@ For those support that are grouped under the category of Expanded and Enriched L
 
 ![](images/WCFSI_latest/IVD.png){fig-align="center"}
 :::
-
+</details>
 
 
 ## V. Community-based Curriculum and Pedagogy
 
+<details>
 ::: panel-tabset
 ### Availability/Overview of the Presence of the Support/Service
 
@@ -171,10 +176,11 @@ For those support that are categorized under Community-based Curriculum and Peda
 
 ![](images/WCFSI_latest/VD.png){fig-align="center"}
 :::
-
+</details>
 
 ## VI. Positive and Restorative School Climate
 
+<details>
 ::: panel-tabset
 ### Availability/Overview of the Presence of the Support/Service
 
@@ -200,8 +206,8 @@ For those supports that are grouped under Positive and Restorative School Climat
 
 ![](images/WCFSI_latest/VID.png){fig-align="center"}
 :::
+</details>
 
-:::
 
 
 
