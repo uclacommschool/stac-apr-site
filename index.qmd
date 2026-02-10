@@ -10,23 +10,22 @@ sidebar: home-resources
 </style>
 ```
 
-
 # California Community Schools Partnership Program Annual Progress Report
 
 ::: column-margin
 ### Resources
 
 -   [NAA Guide – Full](https://cadigitalcommons.org/wp-content/uploads/2025/06/Deep-Needs-and-Asset-Assessment.pdf){target="_blank"}
+
 -   [NAA Guide – Condensed](https://cadigitalcommons.org/wp-content/uploads/2025/06/Needs-and-Assets-Assessment-Condensed.pdf){target="_blank"}
 
-- [CBS - English](https://drive.google.com/file/d/1enPndjBIb1U8qE2I-pbOOxhw0n5Robgm/view?usp=sharing)
+-   [CBS - English](https://drive.google.com/file/d/1enPndjBIb1U8qE2I-pbOOxhw0n5Robgm/view?usp=sharing)
 
-- [CBS - Spanish](https://drive.google.com/file/d/1xwGta6v6V9Ib9Lmg3fI2FanKoNtEPqQI/view)
+-   [CBS - Spanish](https://drive.google.com/file/d/1xwGta6v6V9Ib9Lmg3fI2FanKoNtEPqQI/view)
 
-- [CBS Self-Assessment: LEA](https://docs.google.com/forms/d/e/1FAIpQLSdcH3LNxkDwyvIk_gppRtpNWwfiOEIjXn0z5QTgOqBknGu_lQ/viewform)
+-   [CBS Self-Assessment: LEA](https://docs.google.com/forms/d/e/1FAIpQLSdcH3LNxkDwyvIk_gppRtpNWwfiOEIjXn0z5QTgOqBknGu_lQ/viewform)
 
-- [CBS Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form)
-
+-   [CBS Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form)
 :::
 
 ## Highlights Portal
