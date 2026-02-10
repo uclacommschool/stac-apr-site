@@ -30,6 +30,13 @@ website:
       - href: system-level-analysis.qmd
         text: "LEA"
 
+  sidebar:
+    - id: home-resources
+      contents:
+        - text: ""
+          href: ""
+
+          
 
 format:
   html:
