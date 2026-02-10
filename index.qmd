@@ -6,7 +6,21 @@ sidebar: home-resources
 
 ```{=html}
 <style>
-.column-margin { position: sticky; top: 1rem; }
+/* Mobile: don't sticky (prevents overlap) */
+@media (max-width: 991.98px) {
+  .column-margin { 
+    position: static !important; 
+    top: auto !important;
+  }
+}
+
+/* Desktop: sticky */
+@media (min-width: 992px) {
+  .column-margin {
+    position: sticky;
+    top: 1rem;
+  }
+}
 </style>
 ```
 
