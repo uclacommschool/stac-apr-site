@@ -1,7 +1,6 @@
 ---
 title: ""
 pagetitle: "CCSPP APR"
-sidebar: home-resources
 ---
 
 ```{=html}
