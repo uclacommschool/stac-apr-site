@@ -130,6 +130,7 @@ h1, h2, h3, h4, h5, h6 {
    ------------------------------------------------------------ */
 .sidebar {
   background-color: #ffffff !important;
+  color: #343a40;
 }
 
 .sidebar a.active {
@@ -182,4 +183,17 @@ h1, h2, h3, h4, h5, h6 {
 /* Search modal results header / detached button */
 .aa-DetachedSearchButton {
   border-color: white;
+}
+
+
+/* ------------------------------------------------------------
+   Details in sidebar
+   ------------------------------------------------------------ */
+
+details {
+  color: #343a40; 
+}
+
+details summary {
+  color: #343a40; 
 }
