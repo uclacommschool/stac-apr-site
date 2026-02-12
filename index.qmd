@@ -63,6 +63,9 @@ pagetitle: "CCSPP APR"
 -   [Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
 
 </details>
+
+
+
 :::
 
 ## Highlights Portal
@@ -83,7 +86,9 @@ The APR is aligned with the California Community Schools Framework and also alig
 
 The visualizations and tables throughout this site reflect the data from the CCSPP APR for school sites for the **2022-2023, 2023- 2024, and the 2024-2025 school.**
 
-### Overall Counts
+<details>
+
+<summary>Site & LEA Counts</summary>
 
 ::: panel-tabset
 #### Site Count
@@ -108,6 +113,8 @@ The visualizations and tables throughout this site reflect the data from the CCS
 
 \*Number of participating LEAs (unique). The number of granted LEA per cohort might vary, since some LEAs were awarded grants in more than one cohort.
 :::
+
+</details>
 
 Select specific APR report by **clicking on the section above**.
 

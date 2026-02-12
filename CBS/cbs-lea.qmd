@@ -3,46 +3,48 @@ title: ""
 pagetitle: "Capacity Based Strategies: LEA-Level"
 ---
 
-## LEA-level Analysis Results Overview
+# Are LEA-Level CCSPP grantees building their capacity to implement the approach?
+
+## Overview of *Capacity Building Strategies, LEA-level* in Year 3 
 
 In the Year 3 APR (2024–25), LEAs across all three cohorts self-assessed their phase of growth—Visioning, Engaging, or Transforming—across the five Capacity-Building Strategies (CBSs). Overall, the distributions align with a developmental progression across cohorts: Cohort 1 is most consistently in Engaging (and shows the largest Transforming shares), Cohort 2 reflects a mix but remains predominantly Engaging, and Cohort 3 is primarily in Visioning across all strategies, consistent with being the newest cohort.
 
 Across strategies, Cohort 1 reports strong concentrations in Engaging (e.g., Shared Commitment, Understanding, and Priorities at 77% Engaging; Sustaining Staff and Resources at 76% Engaging) and shows the highest Transforming shares, particularly in Strategic Community Partnerships (22% Transforming). Cohort 2 follows a similar pattern but with slightly more Visioning and lower Transforming. In contrast, Cohort 3 reports majority Visioning across all five strategies (ranging from 46% to 62% Visioning), indicating that many LEAs are still establishing foundational conditions for implementation; Transforming remains minimal across Cohort 3 (2%–7%).
 
-## COHORTS 1 to 3 in Year 3
+## Cohorts 1-3, Year 3
 
 ![](/images/LEA/cbs-cohort-1-2.png)
 
-# Shared Commitment, Understanding, and Priorities
+## Shared Commitment, Understanding, and Priorities
 
 Shared Commitment, Understanding, and Priorities shows one of the largest shifts from Year 2 to Year 3, with Visioning declining sharply (from 59% to 19%) and Engaging increasing to 72%, alongside modest growth in Transforming (from 4% to 7%). This pattern suggests that most LEAs have moved beyond defining priorities toward actively aligning stakeholders around shared goals, though full institutionalization remains limited. LEAs emphasized the role of advisory structures and feedback loops that distribute ownership for establishing priorities. For example, one LEA described how feedback structures supported both belonging and academic partnership: “By listening and responding to feedback, from all stakeholders through surveys, focus groups and interviews, participation in advisory councils, and providing opportunities for student voice to be amplified, our sites have become a hub of belonging and academic partnership.”
 
-# Collaborative Leadership
+## Collaborative Leadership
 
 Collaborative Leadership shows a substantial shift from Year 2 to Year 3, with Visioning declining from 68% to 24% and Engaging increasing from 40% to 66%, alongside modest growth in Transforming (from 4% to 8%). These changes indicate that many LEAs have moved from planning collaborative structures toward more consistent, shared leadership practices, even as relatively few report fully transformed leadership systems. LEA narratives emphasized the role of cross-role leadership teams, regular meeting routines, and shared use of data to support coordinated decision-making. For example, one LEA noted that “through shared leadership teams, professional development efforts, and cross-agency collaboration, our district is building a sustainable foundation for student-centered, community-embedded support systems.”
 
-# Sustaining Staff and Resources
+## Sustaining Staff and Resources
 
 Sustaining Staff and Resources demonstrates a strong consolidation in the Engaging phase. Visioning declines sharply from 49% to 17%, while Engaging increases from 60% to 74%, and Transforming grows from 3% to 7%. These shifts indicate that most LEAs have moved beyond planning toward actively staffing, coordinating, and resourcing whole-child supports, though long-term sustainability remains an emerging area. LEAs frequently cited the importance of dedicated coordination roles and infrastructure investments to support implementation. As one LEA observed, “the need to pursue additional funding opportunities is critical to ensure the sustainability of key positions beyond the duration of the CCSPP grant.”
 
-# Strategic Community Partnerships
+## Strategic Community Partnerships
 
 Strategic Community Partnerships stands out as the most advanced capacity-building strategy. From Year 2 to Year 3, Visioning declines from 47% to 12%, Engaging increases from 55% to 72%, and Transforming rises from 10% to 14%—the highest Transforming share across all strategies. This distribution suggests that partnerships are increasingly embedded as core mechanisms for addressing barriers to learning rather than peripheral supports. LEAs frequently highlighted partnerships that expanded access to mental health services, basic needs supports, and family resources. For example, one LEA described how it “strengthened its wraparound services by creating a dedicated counseling space and maintaining an on-site food pantry, clothing closet, and hygiene supply distribution system.”
 
-# Centering Community-Based Learning
+## Centering Community-Based Learning
 
 Centering Community-Based Learning shows meaningful growth toward Engaging (40% to 58%) and a decrease in Visioning (63% to 37%) from Year 2 to Year 3, though it remains more Visioning-heavy than other strategies in Year 3. LEA narratives suggest that this is less about the perceived value of community-connected learning and more about implementation conditions that determine consistency and equity at scale. A recurring challenge is that these opportunities depend on consistent student participation, which is undermined when attendance is unstable and when students face barriers such as transportation or competing family obligations. One LEA summarized the linkage between attendance and access to programming: “These approaches have contributed to gradual declines in chronic absenteeism rates, which directly impacts students’ access to the full breadth of academic and enrichment programming.” LEAs also noted capacity constraints—staffing coverage, scheduling, and space—that limit how many students can be served and how reliably programs can run across the year.
 
-## Insights by Cohort
+# Insights by Cohort
 
 For Cohort 1 LEAs, the Year 2 to Year 3 APR data suggests continued movement from early planning into deeper implementation across most of the five capacity-building strategies, with a noticeable rise in the Engaging phase in several areas. For example, the Engaging share increases from 2023–24 to 2024–25 in Shared Commitment, Understanding, and Priorities (24% to 33%), Collaborative Leadership (18% to 31%), Sustaining Staff and Resources (26% to 32%), and Strategic Community Partnerships (23% to 30%). At the same time, Transforming remains relatively small across strategies, with the clearest presence in Strategic Community Partnerships (9% in both years) and some growth in Sustaining Staff and Resources (2% to 6%). Centering Community-Based Learning stands out as the one area where Transforming is limited and declines (7% to 2%), even as Engaging increases (19% to 27%), indicating that instructional-core shifts may still be developing more slowly than other system-building efforts.
 
 ::: panel-tabset
-### Cohort 1
+## Cohort 1
 
 ![](/images/LEA/cbs-cohort-1.png)
 
-### Cohort 2
+## Cohort 2
 
 ![](/images/LEA/cbs-cohort-2.png)
 :::
