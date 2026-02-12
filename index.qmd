@@ -63,9 +63,6 @@ pagetitle: "CCSPP APR"
 -   [Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
 
 </details>
-
-
-
 :::
 
 ## Highlights Portal
@@ -84,7 +81,7 @@ pagetitle: "CCSPP APR"
 
 The APR is aligned with the California Community Schools Framework and also aligns with resources provided by the State Transformational Assistance Center (S-TAC) listed in the side bar.
 
-The visualizations and tables throughout this site reflect the data from the CCSPP APR for school sites for the **2022-2023, 2023- 2024, and the 2024-2025 school.**
+The visualizations and tables throughout this site reflect the data from the CCSPP APR for school sites for **Year 1 (2022-2023), Year 2 (2023- 2024), and Year 3 (2024-2025) school years.**
 
 <details>
 
@@ -115,8 +112,6 @@ The visualizations and tables throughout this site reflect the data from the CCS
 :::
 
 </details>
-
-Select specific APR report by **clicking on the section above**.
 
 |                                                          |
 |:--------------------------------------------------------:|

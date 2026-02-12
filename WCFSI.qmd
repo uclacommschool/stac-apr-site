@@ -9,7 +9,7 @@ pagetitle: "Whole-Child & Family Supports Inventory"
 
 This section of the APR captures the range and alignment of academic, social-emotional, health, and family supports available to students and families. The questions are designed to assess how well these supports are coordinated and responsive to local needs and assets.
 
-The 27 supports in the inventory are divided into six categories, according to the nature of the support and the roles in the school community that engage with that support: Integrated Student Supports and Services; Community, Student & Family Engagement; Collaborative Leadership Practices; Expanded & Enriched Learning Time; Community-based Curriculum & Pedagogy, and; Positive & Restorative School Climate. Each category is presented in a different section below. For each support identified under the category, grantees were asked to identify those that were part of their implementation plan.
+The 27 supports in the inventory are divided into six categories, according to the nature of the support: Integrated Student Supports and Services; Community, Student & Family Engagement; Collaborative Leadership Practices; Expanded & Enriched Learning Time; Community-based Curriculum & Pedagogy, and; Positive & Restorative School Climate. Each category is presented in a different section below. For each support identified under the category, grantees were asked to identify those that were part of their implementation plan.
 
 ::: panel-tabset
 ## Cohort 1, Year 1-3 Overview
@@ -32,7 +32,7 @@ In Year 3, 87% of grantees indicated that Mental Health Screening Services were 
 
 ![](images/WCFSI_latest/IA.png){fig-align="center"}
 
-#### Implementation of the Supports/Service
+#### Implementation of the Support/Service
 
 A majority of the Integrated Student Supports and Services offered by grantees in Year 3 were previously offered prior to the CCSPP and integrated into their community schools work. Over 80% of grantees indicated that they previously implemented each of the supports. One exception is the Coordination of Services Team (e.g., COST team), with 25% of grantees indicating that implementation was the result of CCSPP funding.
 
@@ -128,7 +128,7 @@ For those support that are grouped under the category of Expanded and Enriched L
 
 ![](images/WCFSI_latest/IVA.png){fig-align="center"}
 
-#### Implementation of the Supports/Services
+#### Implementation of the Support/Services
 
 For those support/services that are grouped under the category of Expanded and Enriched Learning Time, *15% of grantees mention starting Before School programs exclusively as a result of CCSPP funding*.
 
