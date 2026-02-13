@@ -68,6 +68,9 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+li::marker {
+  color: #343a40;
+}
 /* ------------------------------------------------------------
    Navbar (switch to STAC primary blue)
    ------------------------------------------------------------ */
@@ -138,6 +141,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
 }
 
+.sidebar a.active {
+  color: var(--stac-blue-2);
+  font-weight: 600;
+}
+
 /* Optional: non-active sidebar link hover */
 .sidebar a:hover {
   color: var(--stac-teal);
@@ -196,4 +204,18 @@ details {
 
 details summary {
   color: #343a40; 
+}
+
+/* ------------------------------------------------------------
+   Hero Banner
+   ------------------------------------------------------------ */
+   
+/* Blue hero banner section */
+.hero-banner {
+  background-color: var(--ucla-lightest-blue);
+}
+
+/* Remove separator line inside hero banner */
+.hero-banner h2 {
+  border-bottom: none !important;
 }

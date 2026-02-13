@@ -23,7 +23,11 @@ pagetitle: "CCSPP APR"
 </style>
 ```
 
+::: hero-banner
 # California Community Schools Partnership Program Annual Progress Report
+
+## Highlights Portal
+:::
 
 ::: column-margin
 ### Resources
@@ -63,9 +67,11 @@ pagetitle: "CCSPP APR"
 -   [Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
 
 </details>
-:::
 
-## Highlights Portal
+[**Whole Child & Family Supports Inventory**]{style="color: #343a40;"}
+
+-   [Inventory Form](https://cadigitalcommons.org/wp-content/uploads/2025/07/Whole-Child-and-Family-Supports-Inventory-updated.pdf){target="_blank"}
+:::
 
 **The Annual Progress Report (APR) serves as a tool to assess implementation progress and efforts, and to encourage reflection as part of an ongoing continuous improvement process.** The APR was designed to be filled out by each school's California Community Schools Partnership Program (CCSPP) shared decision-making team or council to ensure the perspectives of students, staff, families and community partners are captured. The reporting portal is intended to align with required annual update presentations on community school planning, including data and outcomes from the prior year at each school site.
 

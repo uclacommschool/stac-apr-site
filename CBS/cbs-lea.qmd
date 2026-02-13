@@ -3,9 +3,59 @@ title: ""
 pagetitle: "Capacity Based Strategies: LEA-Level"
 ---
 
+```{=html}
+<style>
+/* Mobile: don't sticky (prevents overlap) */
+@media (max-width: 991.98px) {
+  .column-margin { 
+    position: static !important; 
+    top: auto !important;
+  }
+}
+
+/* Desktop: sticky */
+@media (min-width: 992px) {
+  .column-margin {
+    position: sticky;
+    top: 1rem;
+  }
+}
+</style>
+```
+
+::: hero-banner
 # Are LEA-Level CCSPP grantees building their capacity to implement the approach?
 
-## Overview of *Capacity Building Strategies, LEA-level* in Year 3 
+## Overview of *Capacity Building Strategies, LEA-level* in Year 3
+:::
+
+::: column-margin
+### Resources
+
+[**Capacity Building Strategies (CBS): A Developmental Rubric**]{style="color: #343a40;"}
+
+<details>
+
+<summary>Rubrics</summary>
+
+-   [CBS - English](https://drive.google.com/file/d/1enPndjBIb1U8qE2I-pbOOxhw0n5Robgm/view?usp=sharing){target="_blank"}
+
+-   [CBS - Spanish](https://drive.google.com/file/d/1xwGta6v6V9Ib9Lmg3fI2FanKoNtEPqQI/view){target="_blank"}
+
+</details>
+
+[**Capacity-Building Strategies: Self-Assessments**]{style="color: #343a40;"}
+
+<details>
+
+<summary>Self-Assessments</summary>
+
+-   [Self-Assessment: LEA](https://docs.google.com/forms/d/e/1FAIpQLSdcH3LNxkDwyvIk_gppRtpNWwfiOEIjXn0z5QTgOqBknGu_lQ/viewform){target="_blank"}
+
+-   [Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
+
+</details>
+:::
 
 In the Year 3 APR (2024–25), LEAs across all three cohorts self-assessed their phase of growth—Visioning, Engaging, or Transforming—across the five Capacity-Building Strategies (CBSs). Overall, the distributions align with a developmental progression across cohorts: Cohort 1 is most consistently in Engaging (and shows the largest Transforming shares), Cohort 2 reflects a mix but remains predominantly in Engaging, and Cohort 3 is primarily in Visioning across all strategies, consistent with being the newest cohort.
 
@@ -13,7 +63,7 @@ Across strategies, Cohort 1 reports strong concentrations in Engaging (e.g., Sha
 
 ## Cohorts 1-3, Year 3
 
-![](/images/LEA/cbs-cohort-1-2.png)
+![](/images/LEA/cbs-cohort-1-3.png)
 
 ## Shared Commitment, Understanding, and Priorities
 
@@ -35,7 +85,9 @@ Strategic Community Partnerships stands out as the most advanced capacity-buildi
 
 Centering Community-Based Learning shows meaningful growth toward Engaging (40% to 58%) and a decrease in Visioning (63% to 37%) from Year 2 to Year 3, though it remains more Visioning-heavy than other strategies in Year 3. LEA narratives suggest that this is less about the perceived value of community-connected learning and more about implementation conditions that determine consistency and equity at scale. A recurring challenge is that these opportunities depend on consistent student participation, which is undermined when attendance is unstable and when students face barriers such as transportation or competing family obligations. One LEA summarized the linkage between attendance and access to programming: “These approaches have contributed to gradual declines in chronic absenteeism rates, which directly impacts students’ access to the full breadth of academic and enrichment programming.” LEAs also noted capacity constraints—staffing coverage, scheduling, and space—that limit how many students can be served and how reliably programs can run across the year.
 
+::: hero-banner
 # Insights by Cohort
+:::
 
 For Cohort 1 LEAs, the Year 2 to Year 3 APR data suggests continued movement from early planning into deeper implementation across most of the five capacity-building strategies, with a noticeable rise in the Engaging phase in several areas. For example, the Engaging share increases from 2023–24 to 2024–25 in Shared Commitment, Understanding, and Priorities (24% to 33%), Collaborative Leadership (18% to 31%), Sustaining Staff and Resources (26% to 32%), and Strategic Community Partnerships (23% to 30%). At the same time, Transforming remains relatively small across strategies, with the clearest presence in Strategic Community Partnerships (9% in both years) and some growth in Sustaining Staff and Resources (2% to 6%). Centering Community-Based Learning stands out as the one area where Transforming is limited and declines (7% to 2%), even as Engaging increases (19% to 27%), indicating that instructional-core shifts may still be developing more slowly than other system-building efforts.
 
