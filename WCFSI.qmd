@@ -35,6 +35,8 @@ The 27 supports in the inventory are divided into six categories, according to t
 
 <details>
 
+<summary>Highlights</summary>
+
 ::: panel-tabset
 #### Availability/Presence
 
@@ -66,6 +68,8 @@ To fund these supports and services, grantees were asked to report funding sourc
 ### II. Community, Student, and Family Engagement
 
 <details>
+
+<summary>Highlights</summary>
 
 ::: panel-tabset
 #### Availability/Presence
@@ -99,6 +103,8 @@ For those supports/services that are categorized under Community, Student, and F
 
 <details>
 
+<summary>Highlights</summary>
+
 ::: panel-tabset
 #### Availability/Presence of the Support/Service
 
@@ -130,6 +136,8 @@ For those support that are grouped under Collaborative Leadership practices, *Te
 ### IV. Expanded and Enriched Learning Time
 
 <details>
+
+<summary>Highlights</summary>
 
 ::: panel-tabset
 #### Presence of the Supports/Services
@@ -163,6 +171,8 @@ For those support that are grouped under the category of Expanded and Enriched L
 
 <details>
 
+<summary>Highlights</summary>
+
 ::: panel-tabset
 #### Availability/Overview of the Presence of the Support/Service
 
@@ -194,6 +204,8 @@ For those support that are categorized under Community-based Curriculum and Peda
 ### VI. Positive and Restorative School Climate
 
 <details>
+
+<summary>Highlights</summary>
 
 ::: panel-tabset
 #### Availability/Overview of the Presence of the Support/Service

@@ -3,6 +3,12 @@ title: ""
 pagetitle: "Site Reflections"
 ---
 
+<style>
+details > summary {
+  font-style: italic;
+}
+</style>
+
 ::: hero-banner
 # What are some of the effective practices sites are implementing?
 
@@ -28,11 +34,16 @@ pagetitle: "Site Reflections"
 
 -   Meeting regularly to coordinate services and review progress.
 
-*Example from grantees:*
+<details>
+
+<summary>*Examples from grantees:*</summary>
 
 > Our focus on Collaborative Leadership has also been instrumental. By increasing staff development opportunities, refining goal-setting practices, and strengthening the role of our School Site Council, we’ve created a more cohesive, shared leadership culture.
 
 > One of our most impactful strategies has been the implementation of professional development tailored to the needs of our educators and staff. Trainings focused on inclusive teaching, trauma-informed care, and data-driven instruction have empowered staff to better support our diverse learners, including students with disabilities, foster youth, and students.
+
+</details>
+
 
 **Community Partnerships:** Schools described the formal collaboration with external organizations to expand resources and whole-child supports available to students and families. In addition, partnerships made wraparound services possible, such as establishing wellness hubs, providing access to clothing and food resources, and connecting families to community-based services.
 
@@ -46,11 +57,16 @@ pagetitle: "Site Reflections"
 
 -   Providing services through supports hubs
 
-*Example from grantees:*
+<details>
+
+<summary>*Examples from grantees:*</summary>
+
 
 > We have also formalized agreements with educational partners and used team mapping to streamline collaboration and maximize impact.
 
 > A key success has been the establishment of our Wellness Hub and the presence of a dedicated Wellness Specialist on site. These resources have provided students and families with increased access to mental health services, basic needs support, and social-emotional development opportunities.
+
+</details>
 
 **Student Voice / Leadership:** Schools described structured opportunities for students to lead initiatives, provide feedback, and participate in decision-making processes.
 
@@ -62,11 +78,15 @@ pagetitle: "Site Reflections"
 
 -   Incorporating student reflections into program adjustments
 
-*Example from grantees:*
+<details>
+
+<summary>*Examples from grantees:*</summary>
 
 > We also experienced success with our student-led WEB (Where Everybody Belongs) program, which fosters leadership and peer mentorship among students.
 
 > A notable success has been the development of student leadership opportunities, including peer mentoring in kindergarten classrooms and student-led planning of school events. These roles empower students to contribute meaningfully to the school community, fostering a greater sense of responsibility and belonging. Weíve observed increased student satisfaction and participation in school activities as a result.
+
+</details>
 
 **Family Engagement:** Schools described the use of intentional strategies to increase family participation, communication, and leadership within the school community.
 
@@ -80,11 +100,15 @@ pagetitle: "Site Reflections"
 
 -   Designated staff roles to support family connection and empowerment.
 
-*Example from grantees:*
+<details>
+
+<summary>*Examples from grantees:*</summary>
 
 > Our Family Resource Liaison also emerged as a critical connector… she helped families—especially newcomers and English learners—feel seen, supported, and empowered to participate more fully in their child’s education.
 
 > To further support the whole family, the school has partnered with external organizations to offer English as a Second Language (ESL) and GED preparation classes for parents. These offerings empower parents with tools to support their children academically and navigate systems more confidently. Additionally, HMSA has partnered with the Los Angeles County Department of Mental Health (LACDMH) to host monthly mental health workshops for parents, fostering a culture of wellness and reducing stigma around seeking help.
+
+</details>
 
 ### Supports
 
@@ -98,9 +122,13 @@ pagetitle: "Site Reflections"
 
 -   Providing timely supports to address barriers to regular school participation
 
-*Example from grantees:*
+<details>
+
+<summary>*Examples from grantees:*</summary>
 
 > The school has achieved notable success in reducing chronic absenteeism by establishing a dedicated Chronic Absenteeism Taskforce. This team worked collaboratively with the middle school to implement a comprehensive, family-centered approach to addressing the issue. The taskforce focused on building strong partnerships with families, identifying the root causes of absenteeism, and developing tailored strategies to support each studentís unique needs. By prioritizing accessibility, open communication, and proactive problem-solving, the taskforce was able to remove barriers to attendance and foster a stronger connection between families and the school community, ultimately leading to improved student attendance and engagement.
+
+</details>
 
 **Mental Health / Social-Emotional Learning:** Schools described structured supports designed to strengthen students’ emotional regulation, peer relationships, and overall well-being.
 
@@ -112,9 +140,13 @@ pagetitle: "Site Reflections"
 
 -   Integrated mental health services delivered on campus
 
-*Example from grantees:*
+<details>
+
+<summary>*Examples from grantees:*</summary>
 
 > After students voiced a need for increased mental health support, we collaborated with our on-campus mental health partner, VIP, to increase the number of therapists serving our school from one to three. This expansion has significantly improved access to individual counseling and crisis intervention services.
+
+</details>
 
 ### Systems
 
@@ -128,9 +160,14 @@ pagetitle: "Site Reflections"
 
 -   Using surveys and referral trends to refine interventions
 
-*Example from grantees:*
+<details class="italic-details">
+
+<summary>*Examples from grantees:*</summary>
 
 > The school’s use of continuous data monitoring through the Needs and Assets Assessment, Panorama surveys, and COST referrals has allowed for more responsive decision-making.
 
 > Staff, families, and students regularly reflect on data to adjust programming and prioritize actions aligned with our implementation goals.
+
+</details>
+
 :::
