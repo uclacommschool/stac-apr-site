@@ -28,8 +28,15 @@ website:
          - href: reflections/lea-reflections.qmd
            text: "LEA"
       - href: system-level-analysis.qmd
-        text: "LEA"
+        text: "System Supports & Coordination"
 
+  sidebar:
+    - id: home-resources
+      contents:
+        - text: ""
+          href: ""
+
+          
 
 format:
   html:

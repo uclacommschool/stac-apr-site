@@ -53,6 +53,7 @@ body {
 /* Titles / headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", Arial, system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: #343a40;
 }
 
 /* UI chrome */
@@ -67,6 +68,9 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+li::marker {
+  color: #343a40;
+}
 /* ------------------------------------------------------------
    Navbar (switch to STAC primary blue)
    ------------------------------------------------------------ */
@@ -128,7 +132,13 @@ h1, h2, h3, h4, h5, h6 {
    Sidebar styling (light STAC background + STAC active state)
    ------------------------------------------------------------ */
 .sidebar {
-  background-color: var(--stac-cyan-bg);
+  background-color: #ffffff !important;
+  color: #343a40;
+}
+
+.sidebar a.active {
+  color: var(--stac-blue-2);
+  font-weight: 600;
 }
 
 .sidebar a.active {
@@ -140,6 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar a:hover {
   color: var(--stac-teal);
 }
+
 
 /* ------------------------------------------------------------
    Search styling in navbar
@@ -180,4 +191,32 @@ h1, h2, h3, h4, h5, h6 {
 /* Search modal results header / detached button */
 .aa-DetachedSearchButton {
   border-color: white;
+}
+
+
+/* ------------------------------------------------------------
+   Details in sidebar
+   ------------------------------------------------------------ */
+
+details {
+  color: #343a40; 
+}
+
+details summary {
+  color: #343a40; 
+}
+
+
+/* ------------------------------------------------------------
+   Hero Banner
+   ------------------------------------------------------------ */
+   
+/* Blue hero banner section */
+.hero-banner {
+  background-color: var(--ucla-lightest-blue);
+}
+
+/* Remove separator line inside hero banner */
+.hero-banner h2 {
+  border-bottom: none !important;
 }

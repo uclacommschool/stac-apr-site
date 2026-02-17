@@ -3,7 +3,9 @@ title: ""
 pagetitle: "LEA Reflections"
 ---
 
+::: hero-banner
 # What are the identified needs and next steps based on a review of data?
+:::
 
 LEAs were asked to describe 1) any areas that need significant improvement based on a review of the site-level APRs, and outcome data, Dashboard indicators, and 2) any steps taken to address those areas.
 

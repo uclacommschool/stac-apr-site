@@ -3,9 +3,11 @@ title: ""
 pagetitle: "Goals & Actions"
 ---
 
+::: hero-banner
 # What goals are grantees prioritizing and how are they making progress in meeting these goals?
 
 ## Overview of *Goals and Actions* in Year 3
+:::
 
 This section of the APR documents how grantees translate community priorities into clear goals and aligned actions. The questions assess the coherence, intentionality, and feasibility of planned implementation strategies.
 
@@ -13,7 +15,7 @@ As indicated in the CCSPP application and implementation process, schools are ex
 
 ## Goal Statements
 
-In Year 3, across Cohort 1-Cohort 3, there were a total of 5,254 school-specific goals submitted in total across 1,920 CCSPP site-level grantees. . The top categories across all these goals are as follows (an example description of the goal, provided by grantees is incorporated):
+In Year 3, across Cohort 1-Cohort 3, there were a total of 5,254 school-specific goals submitted in total across 1,920 CCSPP site-level grantees. The top categories across all these goals are as follows (an example description of the goal, provided by grantees is incorporated):
 
 **1. Social-Emotional Well-Being & Mental Health:**
 
@@ -39,7 +41,9 @@ Goal Example:
 
 **4. Academic Achievement & Student Learning:**
 
-Goal Example: "Increase student academic achievement by strengthening tutoring and specialist intervention systems."
+Goal Example:
+
+> Increase student academic achievement by strengthening tutoring and specialist intervention systems.
 
 **5. School Climate & Shared Leadership:**
 
@@ -59,7 +63,9 @@ Goal Example:
 
 > Fill gaps in integrated support services for students.
 
-## Metrics of Success
+::: hero-banner
+# Metrics of Success
+:::
 
 CCSPP sites were asked to share the metrics associated with each of their school-specific goals. The most common metric selected was “other locally developed metric” (30% of the schools chose this option). Other common metrics included chronic absenteeism rates, climate measures and proficiency scores.
 
@@ -69,7 +75,9 @@ Within the category of “other” local measures, some common metrics were: ser
 <div class='tableauPlaceholder' id='viz1765594464595' style='position: relative'><noscript><a href='#'><img alt='Metrics ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trial_17654078315450&#47;Metrics&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Trial_17654078315450&#47;Metrics' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Tr&#47;Trial_17654078315450&#47;Metrics&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1765594464595');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 ```
 
-## Actions
+::: hero-banner
+# Actions
+:::
 
 CCSPP sites also described the actions that they took to accomplish their goals. For those schools focused on improving student attendance and reducing chronic absenteeism, the top five actions that proved successful to advance this goal were:
 
@@ -79,14 +87,14 @@ Example:
 
 > Community Schools Manager trained teachers on how to have effective attendance-related conversations during family conferences.
 
-2.  **Attendance monitoring and data tracking:** Schools described regularly reviewing attendance data, identifying trends, and responding early to patterns of chronic absenteeism. Schools use attendance teams and continuous improvement cycles to analyze data, adjust strategies, and coordinate outreach and interventions, often within Community Schools structures.
+2.  **Attendance monitoring and data tracking:** Schools described regularly reviewing attendance data, identifying trends, and responding early to patterns of chronic absenteeism. Schools use attendance teams and continuous improvement cycles to analyze data, adjust strategies, and coordinate outreach and interventions, often within community schools structures.
 
-Example: 
+Example:
 
 > We strengthened our data systems to better identify trends and track interventions across student groups.
 
 3.  **Mental health and social-emotional support:** Schools described addressing underlying social-emotional and mental health needs that impact attendance. Schools partner with local mental health agencies, provide on-campus counseling, and hire social workers to coordinate referrals. Professional development and trauma-informed practices support these efforts.
 
-Example: 
+Example:
 
 > Mental health services were provided to students and families to support social-emotional needs that contributed to frequent absences.
