@@ -94,9 +94,9 @@ For Cohort 1 LEAs, the Year 2 to Year 3 APR data suggests continued movement fro
 ::: panel-tabset
 ## Cohort 1
 
-![](/images/LEA/cbs-cohort-1.png)
+![](/images/LEA/cbs-cohort-1-new-colors.png)
 
 ## Cohort 2
 
-![](/images/LEA/cbs-cohort-2.png)
+![](/images/LEA/cbs-cohort-2-new-colors.png)
 :::
