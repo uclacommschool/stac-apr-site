@@ -26,7 +26,7 @@ pagetitle: "CCSPP APR"
 ::: hero-banner
 # California Community Schools Partnership Program Annual Progress Report
 
-## Highlights Portal
+## APR Data & Insights
 :::
 
 ::: column-margin
@@ -50,9 +50,8 @@ pagetitle: "CCSPP APR"
 
 <summary>Rubrics</summary>
 
--   [CBS - English](https://drive.google.com/file/d/1enPndjBIb1U8qE2I-pbOOxhw0n5Robgm/view?usp=sharing){target="_blank"}
+-   [CBS - English](https://cadigitalcommons.org/capacity-building-strategies/){target="_blank"}
 
--   [CBS - Spanish](https://drive.google.com/file/d/1xwGta6v6V9Ib9Lmg3fI2FanKoNtEPqQI/view){target="_blank"}
 
 </details>
 
