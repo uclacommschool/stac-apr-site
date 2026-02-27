@@ -18,9 +18,8 @@ pagetitle: "Capacity Based Strategies: Site-Level"
 
 <summary>Rubrics</summary>
 
--   [CBS - English](https://drive.google.com/file/d/1enPndjBIb1U8qE2I-pbOOxhw0n5Robgm/view?usp=sharing){target="_blank"}
+-   [CBS - English](https://drive.google.com/file/d/1qVMdOM_S9tju6lW-H-NfucM9uMqqI5Qe/view){target="_blank"}
 
--   [CBS - Spanish](https://drive.google.com/file/d/1xwGta6v6V9Ib9Lmg3fI2FanKoNtEPqQI/view){target="_blank"}
 
 </details>
 
@@ -35,7 +34,6 @@ pagetitle: "Capacity Based Strategies: Site-Level"
 -   [Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
 
 </details>
-
 :::
 
 The Capacity-Building Strategies (CBS) section of the APR assesses how grantees are developing the core organizational, relational, and leadership capacities needed to implement and sustain the community school strategy. The questions focus on key strategies that support coherent, long-term systems change rather than isolated programming.

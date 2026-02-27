@@ -38,9 +38,8 @@ pagetitle: "Capacity Based Strategies: LEA-Level"
 
 <summary>Rubrics</summary>
 
--   [CBS - English](https://drive.google.com/file/d/1enPndjBIb1U8qE2I-pbOOxhw0n5Robgm/view?usp=sharing){target="_blank"}
+-   [CBS - English](https://drive.google.com/file/d/1qVMdOM_S9tju6lW-H-NfucM9uMqqI5Qe/view){target="_blank"}
 
--   [CBS - Spanish](https://drive.google.com/file/d/1xwGta6v6V9Ib9Lmg3fI2FanKoNtEPqQI/view){target="_blank"}
 
 </details>
 
