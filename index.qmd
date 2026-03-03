@@ -32,6 +32,11 @@ pagetitle: "CCSPP APR"
 ::: column-margin
 ### Resources
 
+[**APR Versions**]{style="color: #343a40;"}
+
+-   [Spanish](https://docs.google.com/document/d/1oF-8CSPbuXW1WidVErHUDjsYbALcbzOl/edit?usp=sharing&ouid=100302755592707449375&rtpof=true&sd=true){target="_blank"}
+
+
 [**Community Schools Needs and Assets Assessment (NAA) Guide**]{style="color: #343a40;"}
 
 <details>
@@ -61,9 +66,11 @@ pagetitle: "CCSPP APR"
 
 <summary>Self-Assessments</summary>
 
--   [Self-Assessment: LEA](https://docs.google.com/forms/d/e/1FAIpQLSdcH3LNxkDwyvIk_gppRtpNWwfiOEIjXn0z5QTgOqBknGu_lQ/viewform){target="_blank"}
+-   [LEA - English](https://docs.google.com/forms/d/e/1FAIpQLSdcH3LNxkDwyvIk_gppRtpNWwfiOEIjXn0z5QTgOqBknGu_lQ/viewform){target="_blank"}
 
--   [Self-Assessment: Site](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
+-   [Site - English](https://docs.google.com/forms/d/e/1FAIpQLSc5DZgLk-vQy-woKBKLm49a4QzHU9YAFCF1oBO0h-w63NDepA/viewform?usp=send_form){target="_blank"}
+
+-   [Site - Spanish](https://docs.google.com/document/d/1Zg2EU0CJ4ka5Bm2RTd6Dy4XGqrpqrelE/edit?usp=sharing&ouid=100302755592707449375&rtpof=true&sd=true){target="_blank"}
 
 </details>
 
