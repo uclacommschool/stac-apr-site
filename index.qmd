@@ -32,10 +32,9 @@ pagetitle: "CCSPP APR"
 ::: column-margin
 ### Resources
 
-[**APR Versions**]{style="color: #343a40;"}
+[**Previous APR Responses**]{style="color: #343a40;"}
 
--   [Spanish](https://docs.google.com/document/d/1oF-8CSPbuXW1WidVErHUDjsYbALcbzOl/edit?usp=sharing&ouid=100302755592707449375&rtpof=true&sd=true){target="_blank"}
-
+-   [Data Request Tool](https://uclaed.co1.qualtrics.com/jfe/form/SV_9mLEu1IuNi6LZfo){target="_blank"}
 
 [**Community Schools Needs and Assets Assessment (NAA) Guide**]{style="color: #343a40;"}
 
@@ -56,7 +55,6 @@ pagetitle: "CCSPP APR"
 <summary>Rubrics</summary>
 
 -   [CBS - English](https://drive.google.com/file/d/1DP7RyhAVxTFmHMCD0gwekij5-J-h7BR9/view){target="_blank"}
-
 
 </details>
 
